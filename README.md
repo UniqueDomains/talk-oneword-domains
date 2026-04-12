@@ -1,22 +1,22 @@
-# Available .TALK One-Word Domains (5,622,042)
+# Available .TALK One-Word Domains (7,585)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C585%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C042%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C585%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .talk one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .talk one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,585-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,042 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,585 rows · **Live catalog:** 5,622,042 domains
+**Public extract:** 7,585 rows · **Live catalog:** 7,585 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/talk`  
 **Best for:** founders, investors, studios
 
@@ -71,18 +71,18 @@ print(df.head())
 | beyond.talk     | resell    | —         | —             | 77             | 50     | 6      | Dynadot, LLC    |
 | easy.talk       | premium   | $625      | $625          | 128            | 62     | 4      | name.com        |
 | unify.talk      | available | $46.98    | —             | 72             | 38     | 5      | namecheap       |
-| brave.talk      | resell    | —         | —             | 76             | 48     | 5      | Spaceship, Inc. |
+| brave.talk      | resell    | —         | —             | 76             | 46     | 5      | Spaceship, Inc. |
 | power.talk      | premium   | $156      | $156          | 98             | 62     | 5      | namecheap       |
 | cozy.talk       | available | $46.98    | —             | 110            | 37     | 4      | namecheap       |
 | quick.talk      | resell    | —         | —             | 72             | 41     | 5      | NameCheap, Inc  |
 | ace.talk        | premium   | $625      | $625          | 88             | 57     | 3      | name.com        |
-| goon.talk       | available | $46.98    | —             | 80             | 36     | 5      | namecheap       |
+| goon.talk       | available | $46.98    | —             | 80             | 35     | 5      | namecheap       |
 | talk.talk       | resell    | —         | —             | 110            | 36     | 4      | Dynadot, LLC    |
-| live.talk       | premium   | $1,250    | $1,250        | 108            | 55     | 4      | name.com        |
+| live.talk       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com        |
 | nimble.talk     | available | $46.98    | —             | 94             | 33     | 6      | namecheap       |
 | healthy.talk    | resell    | —         | —             | 84             | 35     | 7      | Dynadot, LLC    |
-| zero.talk       | premium   | $312.50   | $312.50       | 112            | 53     | 4      | name.com        |
-| ethereal.talk   | available | $46.98    | —             | 88             | 32     | 8      | namecheap       |
+| alpha.talk      | premium   | $312.50   | $312.50       | 90             | 54     | 5      | name.com        |
+| ethereal.talk   | available | $46.98    | —             | 88             | 31     | 8      | namecheap       |
 | investing.talk  | resell    | —         | —             | 82             | 35     | 9      | Dynadot, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,585-row public sample | 5,622,042 live domains                           |
+| 7,585-row public sample | 7,585 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
