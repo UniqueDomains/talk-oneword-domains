@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .talk one-word domains from Unique
 
 **Public extract:** 7,585 rows · **Live catalog:** 7,585 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/talk`  
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | live.talk       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com        |
 | nimble.talk     | available | $46.98    | —             | 94             | 33     | 6      | namecheap       |
 | healthy.talk    | resell    | —         | —             | 84             | 35     | 7      | Dynadot, LLC    |
-| alpha.talk      | premium   | $312.50   | $312.50       | 90             | 54     | 5      | name.com        |
+| zero.talk       | premium   | $312.50   | $312.50       | 112            | 53     | 4      | name.com        |
 | ethereal.talk   | available | $46.98    | —             | 88             | 31     | 8      | namecheap       |
 | investing.talk  | resell    | —         | —             | 82             | 35     | 9      | Dynadot, LLC    |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
