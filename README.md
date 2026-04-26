@@ -1,22 +1,22 @@
-# Available .TALK One-Word Domains (7,585)
+# Available .TALK One-Word Domains (10,155)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C585%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C585%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C155%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .talk one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .talk one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,155 domains** on the canonical page below.
 
-**Public extract:** 7,585 rows · **Live catalog:** 7,585 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,155 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/talk`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TALK one-word domain 
 
 ### Files
 
-- `talk.csv` — public CSV extract (7,585 rows)
-- `talk.json` — public JSON extract (7,585 rows)
+- `talk.csv` — public CSV extract (1,000 rows)
+- `talk.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| converse.talk   | available | $46.98    | —             | 64             | 73     | 8      | namecheap       |
-| best.talk       | resell    | —         | —             | 82             | 99     | 4      | Spaceship, Inc. |
-| nationwide.talk | premium   | $75       | $75           | 76             | 66     | 10     | name.com        |
-| seventeen.talk  | available | $46.98    | —             | 84             | 62     | 9      | namecheap       |
-| beyond.talk     | resell    | —         | —             | 77             | 50     | 6      | Dynadot, LLC    |
-| easy.talk       | premium   | $625      | $625          | 128            | 62     | 4      | name.com        |
-| unify.talk      | available | $46.98    | —             | 72             | 38     | 5      | namecheap       |
-| brave.talk      | resell    | —         | —             | 76             | 46     | 5      | Spaceship, Inc. |
-| power.talk      | premium   | $156      | $156          | 98             | 62     | 5      | namecheap       |
-| cozy.talk       | available | $46.98    | —             | 110            | 37     | 4      | namecheap       |
-| quick.talk      | resell    | —         | —             | 72             | 41     | 5      | NameCheap, Inc  |
-| ace.talk        | premium   | $625      | $625          | 88             | 57     | 3      | name.com        |
-| goon.talk       | available | $46.98    | —             | 80             | 35     | 5      | namecheap       |
-| talk.talk       | resell    | —         | —             | 110            | 36     | 4      | Dynadot, LLC    |
-| live.talk       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com        |
-| nimble.talk     | available | $46.98    | —             | 94             | 33     | 6      | namecheap       |
-| healthy.talk    | resell    | —         | —             | 84             | 35     | 7      | Dynadot, LLC    |
-| zero.talk       | premium   | $312.50   | $312.50       | 112            | 53     | 4      | name.com        |
-| ethereal.talk   | available | $46.98    | —             | 88             | 31     | 8      | namecheap       |
-| investing.talk  | resell    | —         | —             | 82             | 35     | 9      | Dynadot, LLC    |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| donuts.talk       | available | $46.98    | —             | 54             | 62     | 6      | namecheap |
+| Chanel.talk       | premium   | $168      | $168          | 80             | 77     | 6      | namecheap |
+| RedSox.talk       | available | $46.98    | —             | 72             | 60     | 7      | namecheap |
+| makers.talk       | premium   | $71.40    | $71.40        | 62             | 67     | 6      | namesilo  |
+| matcha.talk       | available | $46.98    | —             | 86             | 39     | 6      | namecheap |
+| regions.talk      | premium   | $75       | —             | 64             | 59     | 7      | name.com  |
+| whynot.talk       | available | $46.98    | —             | 74             | 39     | 7      | namecheap |
+| farmers.talk      | premium   | $75       | —             | 54             | 59     | 7      | name.com  |
+| neuroscience.talk | available | $46.98    | —             | 80             | 37     | 12     | namecheap |
+| Books.talk        | premium   | $700      | $700          | 52             | 49     | 5      | namecheap |
+| letsgo.talk       | available | $46.98    | —             | 57             | 31     | 7      | namecheap |
+| jobs.talk         | premium   | $312.50   | —             | 79             | 42     | 4      | name.com  |
+| Trex.talk         | available | $46.98    | —             | 80             | 24     | 5      | namecheap |
+| shortcuts.talk    | premium   | $75       | —             | 48             | 41     | 10     | name.com  |
+| pops.talk         | available | $38.99    | $38.99        | 74             | 24     | 4      | namesilo  |
+| Tools.talk        | premium   | $168      | $168          | 56             | 40     | 5      | namecheap |
+| rekt.talk         | available | $46.98    | —             | 40             | 24     | 4      | namecheap |
+| WiFi.talk         | premium   | $700      | $700          | 83             | 37     | 5      | namecheap |
+| deeplearning.talk | available | $46.98    | —             | 74             | 23     | 13     | namecheap |
+| events.talk       | premium   | $625      | —             | 68             | 37     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,585-row public sample | 7,585 live domains                               |
+| 1,000-row public sample | 10,155 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
