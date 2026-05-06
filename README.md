@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .talk one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,575 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,575 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,575 domains · **Median ask:** $93.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/talk`  
 **Best for:** founders, investors, studios
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,575 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,575 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely made up of .talk domain names. The pattern is clear: many are plain-language keywords, category terms, places, and short brandable words, such as deck.talk, bundle.talk, sense.talk, canada.talk, and wow.talk. That makes the selection useful for buyers comparing direct semantic fit against memorability. The median ask is $93.49, so price discipline matters less than picking a term that reads naturally to the right audience. When comparing these domains, check whether the word before .talk feels specific, easy to say, and commercially usable without creating confusion or avoidable trademark risk.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- .talk names built around keywords, places, and brandable words
+- Median ask is $93.49 across 10,575 listed domains
+- .talk fit matters most when the word adds clear context
+- Check spelling clarity and trademark overlap before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
