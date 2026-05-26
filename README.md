@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .talk one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,576 domains · **Median ask:** $93.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/talk`  
 **Best for:** founders, investors, studios
 
@@ -66,9 +66,9 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | donuts.talk       | available | $46.98    | —             | 54             | 62     | 6      | namecheap |
 | makers.talk       | premium   | $71.40    | $71.40        | 62             | 67     | 6      | namesilo  |
-| matcha.talk       | available | $46.98    | —             | 86             | 39     | 6      | namecheap |
+| whynot.talk       | available | $46.98    | —             | 74             | 44     | 7      | namecheap |
 | regions.talk      | premium   | $75       | —             | 64             | 59     | 7      | name.com  |
-| whynot.talk       | available | $46.98    | —             | 74             | 39     | 7      | namecheap |
+| matcha.talk       | available | $46.98    | —             | 86             | 39     | 6      | namecheap |
 | jobs.talk         | premium   | $312.50   | —             | 79             | 42     | 4      | name.com  |
 | letsgo.talk       | available | $46.98    | —             | 57             | 31     | 7      | namecheap |
 | shortcuts.talk    | premium   | $75       | —             | 48             | 41     | 10     | name.com  |
@@ -78,9 +78,9 @@ print(df.head())
 | events.talk       | premium   | $625      | —             | 68             | 37     | 6      | name.com  |
 | deeplearning.talk | available | $46.98    | —             | 74             | 23     | 13     | namecheap |
 | homes.talk        | premium   | $150      | —             | 86             | 34     | 5      | name.com  |
-| makeit.talk       | available | $46.98    | —             | 82             | 22     | 7      | namecheap |
-| teams.talk        | premium   | $150      | —             | 62             | 32     | 5      | name.com  |
 | CapeCod.talk      | available | $46.98    | —             | 78             | 22     | 8      | namecheap |
+| teams.talk        | premium   | $150      | —             | 62             | 32     | 5      | name.com  |
+| makeit.talk       | available | $46.98    | —             | 82             | 21     | 7      | namecheap |
 | quotes.talk       | premium   | $75       | —             | 58             | 29     | 6      | name.com  |
 | rivals.talk       | available | $38.99    | $38.99        | 48             | 20     | 6      | namesilo  |
 | blocks.talk       | premium   | $75       | —             | 53             | 29     | 6      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
