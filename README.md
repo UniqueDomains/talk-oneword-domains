@@ -1,10 +1,10 @@
-# Available .TALK One-Word Domains (10,576)
+# Available .TALK One-Word Domains (10,580)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C576%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C580%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .talk one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,576 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,580 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,576 domains · **Median ask:** $93.49 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,580 domains · **Median ask:** $116.56 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/talk`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/talk`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TALK one-word domain 
 
 ### Files
 
-- `talk.csv` — public CSV extract (1,000 rows)
-- `talk.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `talk.csv`, public CSV extract (1,000 rows)
+- `talk.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| donuts.talk       | available | $46.98    | —             | 54             | 62     | 6      | namecheap |
-| makers.talk       | premium   | $71.40    | $71.40        | 62             | 67     | 6      | namesilo  |
-| whynot.talk       | available | $46.98    | —             | 74             | 44     | 7      | namecheap |
-| regions.talk      | premium   | $75       | —             | 64             | 59     | 7      | name.com  |
-| matcha.talk       | available | $46.98    | —             | 86             | 39     | 6      | namecheap |
-| jobs.talk         | premium   | $312.50   | —             | 79             | 42     | 4      | name.com  |
-| letsgo.talk       | available | $46.98    | —             | 57             | 31     | 7      | namecheap |
-| shortcuts.talk    | premium   | $75       | —             | 48             | 41     | 10     | name.com  |
-| Trex.talk         | available | $46.98    | —             | 80             | 24     | 5      | namecheap |
-| WiFi.talk         | premium   | $700      | $700          | 83             | 37     | 5      | namecheap |
-| pops.talk         | available | $38.99    | $38.99        | 74             | 24     | 4      | namesilo  |
-| events.talk       | premium   | $625      | —             | 68             | 37     | 6      | name.com  |
-| deeplearning.talk | available | $46.98    | —             | 74             | 23     | 13     | namecheap |
-| homes.talk        | premium   | $150      | —             | 86             | 34     | 5      | name.com  |
-| CapeCod.talk      | available | $46.98    | —             | 78             | 22     | 8      | namecheap |
-| teams.talk        | premium   | $150      | —             | 62             | 32     | 5      | name.com  |
-| makeit.talk       | available | $46.98    | —             | 82             | 21     | 7      | namecheap |
-| quotes.talk       | premium   | $75       | —             | 58             | 29     | 6      | name.com  |
-| rivals.talk       | available | $38.99    | $38.99        | 48             | 20     | 6      | namesilo  |
-| blocks.talk       | premium   | $75       | —             | 53             | 29     | 6      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| axle.talk | available | $38.99    | $38.99        | high           | high   | 4      | namesilo  |
+| ada.talk  | premium   | $625      | —             | medium         | medium | 3      | name.com  |
+| DJIA.talk | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
+| ago.talk  | premium   | $625      | $625          | medium         | low    | 3      | name.com  |
+| flee.talk | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
+| aim.talk  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| halt.talk | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
+| ask.talk  | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
+| mist.talk | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
+| Ava.talk  | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| omen.talk | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| bag.talk  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| Uber.talk | available | $46.98    | —             | high           | high   | 4      | namecheap |
+| bob.talk  | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| vein.talk | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| bud.talk  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| verb.talk | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| bus.talk  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| whiz.talk | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| but.talk  | premium   | $625      | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,576 live domains                        |
+| 1,000-row public sample | 10,580 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of .talk domain names. The pattern is clear: many are plain-language keywords, category terms, places, and short brandable words, such as deck.talk, bundle.talk, sense.talk, canada.talk, and wow.talk. That makes the selection useful for buyers comparing direct semantic fit against memorability. The median ask is $93.49, so price discipline matters less than picking a term that reads naturally to the right audience. When comparing these domains, check whether the word before .talk feels specific, easy to say, and commercially usable without creating confusion or avoidable trademark risk.
+This list includes one-word and short compound .talk domain names such as matcha.talk, criteria.talk, and messages.talk. The .talk extension pairs well with communication, chat, and community-focused brands, while shorter names tend to carry more resale and branding potential. With a median ask near $117, this selection spans both budget-friendly picks and premium single-word names, giving investors room to spot value and founders a fast path to an ownable, easy-to-say domain.
 
-- .talk names built around keywords, places, and brandable words
-- Median ask is $93.49 across 10,575 listed domains
-- .talk fit matters most when the word adds clear context
-- Check spelling clarity and trademark overlap before buying
+- 10,580+ one-word .talk domains updated daily
+- Median ask near $117 across this .talk selection
+- Mix of single words and short compound names
+- Ideal for chat, community, and communication brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
