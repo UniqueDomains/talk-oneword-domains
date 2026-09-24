@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .talk one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,698 domains · **Median ask:** $75.21 · **High-demand under $2,500:** 57
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/talk`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| axle.talk | available | $38.99    | $38.99        | high           | high   | 4      | namesilo  |
-| ada.talk  | premium   | $625      | —             | medium         | medium | 3      | name.com  |
-| djia.talk | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
-| ago.talk  | premium   | $640      | $640          | low            | low    | 3      | namesilo  |
-| flee.talk | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
-| aim.talk  | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| halt.talk | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
-| ask.talk  | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
-| mist.talk | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
-| ava.talk  | premium   | $625      | —             | high           | medium | 3      | name.com  |
-| omen.talk | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
-| bag.talk  | premium   | $640      | $640          | medium         | low    | 3      | namesilo  |
-| uber.talk | available | $46.98    | —             | high           | high   | 4      | namecheap |
-| bob.talk  | premium   | $640      | $640          | medium         | low    | 3      | namesilo  |
-| vein.talk | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
-| bud.talk  | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| verb.talk | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
-| bus.talk  | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| whiz.talk | available | $41.98    | $46.98        | medium         | low    | 4      | namecheap |
-| but.talk  | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| djia.talk  | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
+| ada.talk   | premium   | $625      | —             | medium         | medium | 3      | name.com  |
+| flee.talk  | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
+| ago.talk   | premium   | $640      | $640          | low            | low    | 3      | namesilo  |
+| halt.talk  | available | $41.98    | $46.98        | low            | low    | 4      | namecheap |
+| aim.talk   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| mist.talk  | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
+| ask.talk   | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
+| omen.talk  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| ava.talk   | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| uber.talk  | available | $46.98    | —             | high           | high   | 4      | namecheap |
+| bag.talk   | premium   | $640      | $640          | medium         | low    | 3      | namesilo  |
+| vein.talk  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| bob.talk   | premium   | $640      | $640          | medium         | low    | 3      | namesilo  |
+| verb.talk  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| bud.talk   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| whiz.talk  | available | $41.98    | $46.98        | medium         | low    | 4      | namecheap |
+| bus.talk   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| annoy.talk | available | $38.99    | $38.99        | high           | low    | 5      | namesilo  |
+| but.talk   | premium   | $625      | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TALK One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
