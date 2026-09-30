@@ -1,9 +1,11 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-2f4ced0d-1e00-42e1-b713-888995243549,impress.talk,available,38.99,38.99,high,low,7,namesilo,,,
+ad7cb238-1a3e-4bfb-bc01-b4cd485a1b01,advertise.talk,premium,132,132,high,low,9,dynadot,,,29/09/2026 20:39
+2f4ced0d-1e00-42e1-b713-888995243549,impress.talk,available,38.99,38.99,high,low,7,namesilo,,,29/09/2026 23:37
 497ba831-4ae0-4393-bc72-e0780ce9efe1,lounge.talk,premium,71.4,71.4,high,low,6,namesilo,,,11/09/2026 08:25
 73676d2b-e050-41f5-ac88-c62bc65beec9,ren.talk,premium,517.7,517.7,high,low,3,spaceship,,,29/09/2026 02:51
 35ef6c8f-f2a0-4831-9a39-0f01d4268c97,appalled.talk,available,38.99,38.99,medium,low,8,namesilo,,,
 75763aaa-791b-41eb-b2bd-bb801ffa1c4c,bamboo.talk,available,38.99,38.99,high,medium,6,namesilo,,,22/09/2026 00:40
+db9c245e-325e-4387-91f7-e341e9f6a0d3,turbulence.talk,available,25,31.41,high,low,10,porkbun,,,29/09/2026 08:09
 e8586d61-fd51-4294-82cc-955448a8c73a,courtesy.talk,premium,78,78,high,low,8,namecheap,,,24/09/2026 18:48
 44755184-b539-4277-a895-c79357de2d46,jessie.talk,premium,156,156,high,low,6,namecheap,,,25/09/2026 11:53
 453c46d6-4ede-4c9b-9c98-946cdc1b1fa6,carroty.talk,available,38.99,38.99,medium,low,7,namesilo,,,11/08/2026 19:48
@@ -21,23 +23,30 @@ e3c75dc5-e780-4d55-850b-999e44e2aa49,surgeons.talk,premium,71.4,71.4,medium,low,
 914f0bb4-aaa0-4836-b298-977f9a875477,briefly.talk,premium,62.3,62.3,high,low,7,spaceship,,,28/09/2026 13:31
 5521030e-02fb-4daf-a8d2-45c633cbf2ed,turtles.talk,available,38.99,38.99,medium,low,7,namesilo,,,28/09/2026 23:52
 6616f235-5672-466b-919b-684c228ad4f8,monotony.talk,available,38.99,38.99,medium,low,8,namesilo,,,21/08/2026 15:10
+1dffb945-20e6-465f-92e5-0b2580aaf2d1,halley.talk,available,41.98,46.98,high,low,6,namecheap,,,30/09/2026 01:28
 14625108-6536-4d06-b01d-730b8fda7cdf,auditive.talk,available,38.99,38.99,medium,low,8,namesilo,,,07/08/2026 16:49
 ae6ed31e-f78a-49f0-8e3d-ac3b65982df0,shouter.talk,available,38.99,38.99,high,low,7,namesilo,,,22/09/2026 17:05
 ca622250-2447-4423-a45c-86dfcaa9911b,archerfish.talk,available,38.99,38.99,medium,low,10,namesilo,,,20/09/2026 01:56
+93df9e83-8a87-499b-9848-c16f1bfebd02,encyclopedia.talk,premium,62.3,62.3,high,low,12,spaceship,,,29/09/2026 10:09
 7c50f27a-b7fa-497e-839b-c0b7a7ea394b,pedigree.talk,available,38.99,38.99,high,low,8,namesilo,,,08/09/2026 13:15
+6475af6e-802d-4ea5-a098-f99e7452547d,serena.talk,premium,124.4,124.4,high,low,6,spaceship,,,29/09/2026 22:03
 6f74544a-68d1-4fce-a6c1-2d5dcc45eeeb,cell.talk,premium,302.5,302.5,high,low,4,namesilo,,,28/09/2026 05:42
 1f40cc2e-69e2-42de-af6a-f890e2564301,joanna.talk,premium,156,156,high,low,6,namecheap,,,25/09/2026 11:35
-23c62369-dabf-4ee4-ab93-921793f3fc4d,artistic.talk,premium,71.4,71.4,high,low,8,namesilo,,,22/09/2026 09:09
+aee0b836-c574-485a-ae11-3af9da77c383,rodrigues.talk,premium,132,132,medium,low,9,dynadot,,,29/09/2026 04:31
+23c62369-dabf-4ee4-ab93-921793f3fc4d,artistic.talk,premium,62.3,62.3,high,low,8,spaceship,,,29/09/2026 09:12
 b2267354-55b1-4a8d-b8a3-2c0ed76692dc,sonoma.talk,premium,124.4,124.4,high,low,6,spaceship,,,27/09/2026 20:23
+4c879357-3c3a-4e40-9323-c146a34ec9e5,romero.talk,premium,124.4,124.4,high,low,6,spaceship,,,29/09/2026 21:33
 9bf7d03c-6fab-456a-a6c1-58825635effc,hunt.talk,premium,302.5,302.5,high,medium,4,namesilo,,,25/09/2026 23:08
 16a29a20-f00e-4985-94e8-9bd7fa102f1e,battue.talk,available,38.99,38.99,medium,low,6,namesilo,,,22/09/2026 16:30
 b402b260-9917-4e35-9928-9adbe1987367,independent.talk,premium,75,,high,low,11,name.com,,,
 379ec7ff-9543-4fb7-9e9f-5283a2291dfa,claws.talk,available,38.99,38.99,medium,low,5,namesilo,,,28/09/2026 17:19
+dbf24f14-62d6-434c-8f91-8232bc52ffdd,cytokines.talk,available,31.25,31.25,medium,low,9,spaceship,,,29/09/2026 06:01
 14c1599a-648b-42d3-9e27-74aa40074524,pedagogic.talk,available,38.99,38.99,medium,low,9,namesilo,,,08/09/2026 12:15
 4f529fc3-83f3-40d0-9728-3785b7526872,caesarean.talk,available,38.99,38.99,medium,low,9,namesilo,,,11/08/2026 13:05
 8e8ebc36-3c32-4ce2-8376-7e0fb8b60896,tanning.talk,available,41.98,46.98,high,low,7,namecheap,,,22/08/2026 20:14
 8d00f3e0-f706-419a-adee-31475125a148,criticize.talk,available,38.99,38.99,high,low,9,namesilo,,,
 c9865989-f3f0-4772-9c02-c6c7ab266377,arkansas.talk,premium,71.4,71.4,high,low,8,namesilo,,,20/09/2026 06:13
+c1ce5de4-e9a3-4046-a87b-d08f7947e02c,kyoto.talk,premium,650,650,high,low,5,namecheap,,,29/09/2026 19:29
 1b0c3c18-f4c2-4e6b-9733-000f7a009f14,monument.talk,available,38.99,38.99,high,low,8,namesilo,,,28/09/2026 14:54
 98c7e565-90d5-4099-b914-6eb68ca36459,anethum.talk,available,41.98,46.98,medium,low,7,namecheap,,,19/09/2026 05:35
 ce0be394-d486-462f-8286-99f5a3dede26,hobble.talk,available,38.99,38.99,medium,low,6,namesilo,,,23/08/2026 13:26
@@ -74,7 +83,7 @@ cbdb5c06-aab8-4ce1-8b7c-cb8f2cc7692d,picket.talk,available,38.99,38.99,high,low,
 cef9752a-ea07-45d5-81f2-9d8387836c28,bomb.talk,premium,302.5,302.5,high,low,4,namesilo,,,29/09/2026 03:18
 625fe745-097b-4134-b3dc-1715e472486e,credence.talk,available,38.99,38.99,high,low,8,namesilo,,,16/09/2026 21:59
 122a6c3e-4dc0-4dc6-9b5b-725cef124517,mafia.talk,available,41.98,46.98,high,low,5,namecheap,,,24/09/2026 18:28
-d74d6135-ed0a-4b75-9ef2-ef5c794e7da4,drummond.talk,available,38.99,38.99,medium,low,8,namesilo,,,25/09/2026 15:26
+d74d6135-ed0a-4b75-9ef2-ef5c794e7da4,drummond.talk,available,38.99,38.99,high,low,8,namesilo,,,25/09/2026 15:26
 932d229c-30a3-4021-aa94-707208f5ee94,referees.talk,available,38.99,38.99,medium,low,8,namesilo,,,20/09/2026 11:54
 8d368ac0-a76f-413b-9a12-094135c4de3b,habilitate.talk,available,41.98,46.98,medium,low,10,namecheap,,,19/09/2026 20:06
 f38d1f7d-0637-4426-9f5b-99a7b02430cf,objector.talk,available,38.99,38.99,medium,low,8,namesilo,,,14/08/2026 12:43
@@ -84,10 +93,11 @@ aab6f5da-56cf-4109-b2f5-dfed98ede262,grazed.talk,available,41.98,46.98,medium,lo
 37daf548-71ae-4ee2-b87e-06679a218282,junctions.talk,available,41.98,46.98,medium,low,9,namecheap,,,27/09/2026 03:20
 601732a7-6961-4d06-9291-01f2ed9d83dc,deftness.talk,available,41.98,46.98,high,low,8,namecheap,,,17/09/2026 07:43
 37020c12-88b9-4799-8e17-17fbb3c1411d,isabelle.talk,premium,153.6,153.6,high,low,8,namesilo,,,28/09/2026 07:42
+e252f1f8-d1d0-4a0a-af43-2b69d2131f61,joins.talk,premium,124.4,124.4,medium,low,5,spaceship,,,29/09/2026 17:15
 2a71f576-c531-420b-bcd3-5c75f7989700,swank.talk,available,38.99,38.99,high,low,5,namesilo,,,12/08/2026 04:51
-dff25958-3e0a-438c-9bd9-a0b6a3dc74a0,mill.talk,premium,302.5,302.5,high,low,4,namesilo,,,
+dff25958-3e0a-438c-9bd9-a0b6a3dc74a0,mill.talk,premium,258.95,258.95,high,low,4,spaceship,,,29/09/2026 18:53
 27c75b2c-d0e8-4f2b-b185-cb189fe35681,sweetheart.talk,premium,71.4,71.4,high,low,10,namesilo,,,22/08/2026 16:44
-8cbab258-252a-4bfa-a148-d82c620d69dd,columbian.talk,available,41.98,46.98,medium,low,9,namecheap,,,12/08/2026 18:12
+8cbab258-252a-4bfa-a148-d82c620d69dd,columbian.talk,available,41.98,46.98,high,low,9,namecheap,,,12/08/2026 18:12
 6a8682fd-7543-4db9-a3d6-799badb05e1e,weepy.talk,available,38.99,38.99,medium,low,5,namesilo,,,13/09/2026 10:06
 accd6c4d-d631-48a9-92e3-a183c32986ca,mantled.talk,available,41.98,46.98,medium,low,7,namecheap,,,14/08/2026 18:25
 549f9a69-9b8a-4959-bed1-c9d7afe4338d,furthest.talk,available,38.99,38.99,medium,low,8,namesilo,,,24/09/2026 17:07
@@ -103,13 +113,13 @@ b27588d0-672a-465f-8f0a-6f62091700d6,logo.talk,premium,273.44,273.44,high,low,4,
 2045ee38-d856-4e08-87d2-fb8c6640b6a3,centric.talk,available,38.99,38.99,high,low,7,namesilo,,,12/08/2026 00:07
 cc445696-43dc-49ff-a883-72c0a520f79e,wilde.talk,available,38.99,38.99,high,low,5,namesilo,,,25/09/2026 09:39
 4e294d33-f048-4b4f-83e7-f02125222987,pentatonic.talk,available,38.99,38.99,medium,low,10,namesilo,,,08/09/2026 15:05
-26fe76fb-a3da-4cf0-937f-45b4e0bc2e46,chr.talk,premium,640,640,medium,low,3,namesilo,,,28/09/2026 12:07
+26fe76fb-a3da-4cf0-937f-45b4e0bc2e46,chr.talk,premium,640,640,high,low,3,namesilo,,,28/09/2026 12:07
 b3877539-5f93-4147-967f-02b116500f7d,unruffled.talk,available,41.98,46.98,high,medium,9,namecheap,,,08/09/2026 20:15
 77919daa-011e-4f72-8779-0b4d1a220238,untapped.talk,available,41.98,46.98,medium,low,8,namecheap,,,12/09/2026 21:02
 066feb2f-599a-4863-825d-17eb2a62e93b,unspotted.talk,available,41.98,46.98,medium,low,9,namecheap,,,12/09/2026 20:15
 7a6f2561-2c5b-4c3e-b4af-33ace90603de,della.talk,premium,131.52,131.52,medium,low,5,porkbun,,,29/09/2026 04:03
 e7aca841-3b3c-4446-a279-26cfa2e7be94,louisiana.talk,premium,71.4,71.4,high,low,9,namesilo,,,28/09/2026 10:17
-93e5c472-7930-4aca-89f7-6e5b7e6b68de,info.talk,available,,,high,medium,4,,,,
+d093f490-6027-4db8-beb1-6047f57728ee,higgs.talk,available,31.25,31.25,high,low,5,spaceship,,,29/09/2026 14:20
 1f090185-4bba-4fa3-b758-f66c4aa2cc50,cummings.talk,available,38.99,38.99,medium,low,8,namesilo,,,25/09/2026 04:27
 524db8cb-5cb2-47e9-91f6-a1edc039c98f,barking.talk,available,38.99,38.99,medium,low,7,namesilo,,,28/09/2026 11:18
 4f50c5e3-e852-495f-81e5-416e90495284,nonprofit.talk,premium,78,78,high,low,9,namecheap,,,03/09/2026 18:33
@@ -119,6 +129,7 @@ ec230823-7891-4abb-aaf4-10223e733ae4,sternal.talk,available,41.98,46.98,medium,l
 a043405e-efcc-421c-9e91-3df380734c3a,nevada.talk,premium,66.02,66.02,high,low,6,porkbun,,,29/09/2026 01:35
 2d501dce-6912-428c-b946-fc4ec2f8ee4a,list.talk,premium,302.5,302.5,high,low,4,namesilo,,,25/09/2026 13:18
 3569b542-e006-4e54-8162-fa5cc330164f,agog.talk,available,41.98,46.98,high,low,4,namecheap,,,
+7ac2adc2-9122-433f-bd81-da7f05f5fcc6,vanish.talk,available,38.99,38.99,high,low,6,namesilo,,,29/09/2026 14:13
 dfbc3dad-5a94-4843-a289-ad50ac1e5e09,someone.talk,premium,78,78,high,low,7,namecheap,,,25/09/2026 09:13
 2060c1a5-7c66-4388-9582-90e2d62decaa,irritated.talk,available,38.99,38.99,medium,low,9,namesilo,,,
 8fcd4650-1035-42b6-bfc7-24aadcf662e3,antabuse.talk,available,38.99,38.99,medium,low,8,namesilo,,,19/09/2026 12:24
@@ -132,14 +143,18 @@ ec970532-24e7-4bd3-af52-b1569cabe470,anarchist.talk,available,38.99,38.99,high,l
 0f5cb7b2-ade2-4ec6-a7cf-96b48e11bd4e,ansi.talk,available,31.25,31.25,medium,low,4,spaceship,,,28/09/2026 11:47
 f366c76b-2c48-40c2-b4e9-f71cf57567c8,belated.talk,available,38.99,38.99,medium,low,7,namesilo,,,09/08/2026 12:37
 35bf1221-7a2c-47bc-9c45-7b47f58273f3,agronomy.talk,available,38.99,38.99,medium,low,8,namesilo,,,17/09/2026 19:42
-887a9108-1029-4d53-b815-1d02a97b779f,pound.talk,premium,150,,high,low,5,name.com,,,
+415fedba-b2e9-40c0-890f-7bb17828e063,livy.talk,available,38.99,38.99,medium,low,4,namesilo,,,29/09/2026 13:19
+887a9108-1029-4d53-b815-1d02a97b779f,pound.talk,premium,153.6,153.6,medium,low,5,namesilo,,,29/09/2026 04:26
 598b7655-bcdd-4948-98bc-ac8311c06889,inculpable.talk,available,38.99,38.99,medium,low,10,namesilo,,,10/08/2026 12:55
+c2102ba5-66b6-41e4-9619-588762ee48ab,dictatorship.talk,available,38.99,38.99,high,low,12,namesilo,,,29/09/2026 14:18
 fef9d339-ced5-42f1-8490-42e5086dd3ce,rugged.talk,available,41.98,46.98,high,low,6,namecheap,,,18/08/2026 18:56
-471e14e8-bfb9-4df8-bbdf-4087bf41497b,twaddle.talk,available,38.99,38.99,medium,low,7,namesilo,,,21/09/2026 23:55
+471e14e8-bfb9-4df8-bbdf-4087bf41497b,twaddle.talk,available,38.99,38.99,high,low,7,namesilo,,,21/09/2026 23:55
 93bd2d3e-b105-4bbc-b1eb-538cacef853a,collars.talk,available,38.99,38.99,medium,low,7,namesilo,,,20/09/2026 09:10
+f1ad1e82-6248-4823-8d6c-34c9cd2265fa,islamabad.talk,premium,153.6,153.6,medium,low,9,namesilo,,,29/09/2026 06:15
 aba7ba52-3197-4dcf-b63f-e089890a9f0e,prodigally.talk,available,38.99,38.99,low,low,10,namesilo,,,15/09/2026 21:38
 567d6705-2a1a-40b7-b3a2-18a712c8b10c,finalized.talk,available,38.99,38.99,medium,low,9,namesilo,,,17/09/2026 13:05
 55b19616-c020-45a3-acaf-1f3a8738b393,explicit.talk,premium,75,75,high,low,8,name.com,,,17/08/2026 18:24
+169252dd-ef14-4edb-8914-47c78bc8a4c1,clint.talk,available,38.99,38.99,high,low,5,namesilo,,,29/09/2026 15:00
 e177a0e9-52c2-4267-8b91-67d328414105,abbatial.talk,available,38.99,38.99,medium,low,8,namesilo,,,
 87ec6d7c-496a-4e30-a3b1-7d4dd2a69a86,snoek.talk,available,41.98,46.98,medium,low,5,namecheap,,,22/09/2026 07:53
 64d00b6e-7c6e-4cde-81bb-476474da1371,implying.talk,available,38.99,38.99,high,low,8,namesilo,,,
@@ -151,7 +166,9 @@ b16e5b13-89d8-4025-bc0e-6703630ff2b9,revisions.talk,premium,71.4,71.4,medium,low
 4edd3965-1902-47d3-9efd-f48b215ec8d5,effete.talk,available,41.98,46.98,medium,low,6,namecheap,,,13/08/2026 20:52
 754bb0c3-7425-4c2d-8b21-5ea49787b2fc,maximum.talk,premium,78,78,high,low,7,namecheap,,,25/09/2026 18:14
 596c19ff-4431-411f-9caa-732397580da2,zygoma.talk,available,38.99,38.99,medium,low,6,namesilo,,,20/09/2026 03:03
+cb2a66f5-c55e-4d35-8805-ae0713b829a2,aris.talk,available,38.99,38.99,high,low,4,namesilo,,,30/09/2026 03:35
 b57ea91d-18d8-4793-96b8-fb6798818e00,programmed.talk,available,31.25,31.25,medium,low,10,spaceship,,,28/09/2026 12:27
+5303a458-4bd3-4d84-b695-7dec360d36f2,fingerprint.talk,premium,62.3,62.3,high,low,11,spaceship,,,29/09/2026 08:29
 d837f0ea-bb4e-4607-8bdd-0a82e473aa8b,cad.talk,premium,640,640,high,low,3,namesilo,,,24/09/2026 02:18
 40dc29eb-d0c0-474a-a9f9-f78aa9a372af,calculate.talk,premium,66,66,high,low,9,dynadot,,,28/09/2026 14:09
 52674f5f-7632-4e44-802c-0676f9adf769,custard.talk,available,41.98,46.98,high,low,7,namecheap,,,24/09/2026 20:38
@@ -164,7 +181,10 @@ d837f0ea-bb4e-4607-8bdd-0a82e473aa8b,cad.talk,premium,640,640,high,low,3,namesil
 db010e5a-9720-421a-8f71-6b27b4dbe662,fractious.talk,available,38.99,38.99,medium,low,9,namesilo,,,18/08/2026 13:53
 b719d3db-25cc-4193-985d-0b7c1965350b,unlicensed.talk,available,38.99,38.99,medium,low,10,namesilo,,,11/09/2026 23:37
 520bd36a-641a-4451-8dae-bdfc48b2ba25,ballet.talk,premium,71.4,71.4,high,low,6,namesilo,,,21/09/2026 22:51
+abc09f32-d16f-4b57-a00e-7f9b70ca9b20,opponents.talk,premium,66,66,low,low,9,dynadot,,,29/09/2026 16:42
+d8ca51aa-5dcc-491f-a05e-9c0afd4a2c4a,genre.talk,premium,153.6,153.6,high,low,5,namesilo,,,29/09/2026 07:04
 beb0d43e-9dc4-401e-9358-0f59263f6cd7,arguer.talk,available,41.98,46.98,high,low,6,namecheap,,,20/09/2026 04:46
+aab8b2d2-daed-4395-9d72-f1f48163d194,humming.talk,available,31.25,31.25,high,low,7,spaceship,,,29/09/2026 07:18
 bcacd17d-765e-43fd-9e10-617b13719415,thankless.talk,available,38.99,38.99,medium,low,9,namesilo,,,11/09/2026 12:28
 567a1db6-2668-40d4-842c-4402fad35c46,enatic.talk,available,38.99,38.99,medium,low,6,namesilo,,,16/08/2026 21:20
 16f4f6e3-522f-445a-b1a8-171a3041d9ce,rolled.talk,premium,75,75,high,low,6,name.com,,,18/08/2026 18:46
@@ -182,7 +202,7 @@ d7e2d9e1-23c8-4fe9-9266-3c91aba1c310,yobbo.talk,available,38.99,38.99,medium,low
 23574ceb-a29e-4770-bfbf-42224b7a8d52,tenured.talk,available,38.99,38.99,high,low,7,namesilo,,,11/09/2026 11:43
 37aa1ee1-ce99-438f-8756-c925f60eea50,dispensed.talk,available,38.99,38.99,medium,low,9,namesilo,,,14/08/2026 11:54
 37e6a35c-b09a-4f90-88df-2a30bf7286b1,existence.talk,premium,62.3,62.3,high,low,9,spaceship,,,28/09/2026 10:53
-6216ac62-8ccc-4e5a-9dcc-eeef58b687d8,brits.talk,available,38.99,38.99,medium,low,5,namesilo,,,11/08/2026 04:46
+6216ac62-8ccc-4e5a-9dcc-eeef58b687d8,brits.talk,available,38.99,38.99,high,low,5,namesilo,,,11/08/2026 04:46
 1e718085-3a73-4efd-bc04-e3071b0e0a60,clementine.talk,premium,153.6,153.6,high,low,10,namesilo,,,24/09/2026 15:33
 1d3eef3c-cbd0-4378-a706-1d9d79d041d3,barong.talk,available,38.99,38.99,medium,low,6,namesilo,,,22/09/2026 07:38
 83fa9588-5ee9-4bd1-8d25-5ce8eea02c20,heights.talk,premium,62.3,62.3,high,low,7,spaceship,,,27/09/2026 13:59
@@ -192,7 +212,7 @@ e17be151-2954-4aac-8209-5e7e37cc4068,flawless.talk,available,38.99,38.99,high,lo
 0dc96cfe-cb14-4148-a4f0-92e69d7caa9a,mortal.talk,available,59.99,59.99,high,low,6,name.com,,,13/08/2026 19:33
 0f04a55b-4927-4fc3-be9e-8b13bd7ed01e,drag.talk,premium,302.5,302.5,high,low,4,namesilo,,,25/09/2026 22:05
 97f8fee0-d257-4a61-a7e1-de2991f2b58f,undyed.talk,available,38.99,38.99,medium,low,6,namesilo,,,12/09/2026 02:08
-8732a1cb-9759-4e7b-8e6e-488a38a22d29,cinderella.talk,available,38.99,38.99,high,low,10,namesilo,,,
+8732a1cb-9759-4e7b-8e6e-488a38a22d29,cinderella.talk,available,41.98,46.98,high,low,10,namecheap,,,29/09/2026 09:13
 077903d9-637f-47be-af4b-30af5c4097bd,amelia.talk,premium,156,156,high,low,6,namecheap,,,18/09/2026 18:15
 dbe1792e-c712-428f-afc5-777d34eb6e7a,slowpoke.talk,available,41.98,46.98,medium,low,8,namecheap,,,10/09/2026 20:25
 775d4feb-e1bc-49a0-8d60-575f460cf485,messy.talk,available,41.98,46.98,high,low,5,namecheap,,,25/09/2026 19:49
@@ -206,7 +226,7 @@ ae4a8e88-bb6d-45c0-a736-ec45d4f20c1b,terzetto.talk,available,38.99,38.99,medium,
 fd8af240-b949-4c9f-97ac-c684f50062af,pianoforte.talk,available,41.98,46.98,high,medium,10,namecheap,,,08/09/2026 19:29
 ee283cf7-35c6-4ae6-89df-1c7c8faaa475,climber.talk,available,38.99,38.99,high,low,7,namesilo,,,24/09/2026 15:39
 6db45ec7-b031-4e51-81a4-d786c527791f,fucking.talk,premium,640,640,high,low,7,namesilo,,,24/09/2026 22:07
-eb5cad5c-2b34-4277-beec-f6134487f49a,dripping.talk,available,38.99,38.99,medium,low,8,namesilo,,,14/09/2026 14:32
+eb5cad5c-2b34-4277-beec-f6134487f49a,dripping.talk,available,38.99,38.99,high,low,8,namesilo,,,14/09/2026 14:32
 743407ab-45b4-4ecc-91a1-36502842f1b8,frigid.talk,available,38.99,38.99,medium,low,6,namesilo,,,18/08/2026 15:46
 2e53c0b3-ee65-4580-b2d8-5cd54b90d148,devoting.talk,available,38.99,38.99,medium,low,8,namesilo,,,17/09/2026 17:04
 f5ebeca5-9a50-489e-8bf8-b5ce4589274e,victual.talk,available,41.98,46.98,medium,low,7,namecheap,,,12/08/2026 18:51
@@ -221,21 +241,23 @@ a13d74a6-11a7-40e1-8bcb-492d5013f6c4,wai.talk,premium,640,640,high,low,3,namesil
 192e2f82-17e3-441b-a293-3d2a634c7b6e,atom.talk,premium,302.5,302.5,high,medium,4,namesilo,,,20/09/2026 21:53
 0ff31d17-9c59-4135-82fa-6a517d1c18ed,much.talk,premium,302.5,302.5,high,low,4,namesilo,,,25/09/2026 22:03
 27ce6214-88fc-4c82-a162-b4b23f38e823,hostesses.talk,available,38.99,38.99,medium,low,9,namesilo,,,20/09/2026 07:50
-e3323b0f-a3f2-4bc4-b1e3-c813d892fb3d,shoulders.talk,available,38.99,38.99,medium,low,9,namesilo,,,
+e3323b0f-a3f2-4bc4-b1e3-c813d892fb3d,shoulders.talk,available,38.99,38.99,high,low,9,namesilo,,,
+2870439c-a673-4105-b463-6b9fcb4bc3d7,henan.talk,premium,124.4,124.4,medium,low,5,spaceship,,,29/09/2026 15:30
 c9b3570f-8f28-45d4-a74f-e38e0dc46fc0,fixation.talk,available,38.99,38.99,high,low,8,namesilo,,,20/09/2026 09:06
 60c0cd36-28f0-47e3-b795-e2bc4a0ffba0,nero.talk,available,38.99,38.99,high,low,4,namesilo,,,25/09/2026 23:29
 b89cbdca-9ad9-4152-b45f-0e2bfd22543e,northmost.talk,available,38.99,38.99,medium,low,9,namesilo,,,03/09/2026 21:38
-0c2ec69e-6b52-42b5-990b-b8efc30940f7,adverse.talk,premium,71.4,71.4,medium,low,7,namesilo,,,
+0c2ec69e-6b52-42b5-990b-b8efc30940f7,adverse.talk,premium,71.4,71.4,high,low,7,namesilo,,,
 9c603da5-cc13-4875-b66e-3424bb54e106,sound.talk,premium,156,156,high,medium,5,namecheap,,,25/09/2026 13:31
 ce0c9f94-a806-4a9b-9dc6-010df1c2acaa,federalist.talk,available,31.25,31.25,medium,low,10,spaceship,,,28/09/2026 19:11
 8d7a7779-b0f2-426e-a036-48dd8595060d,tending.talk,available,38.99,38.99,high,low,7,namesilo,,,11/09/2026 11:15
 1febce82-fc56-4d6e-890d-d799a2230bb2,locked.talk,premium,71.4,71.4,high,low,6,namesilo,,,27/09/2026 02:54
 0ba1619f-09fb-4293-8b78-e6bbd4ecaa37,triple.talk,premium,640,640,high,low,6,namesilo,,,28/09/2026 02:16
-682e007a-5b68-4c4f-b679-ab15df70b7a3,affirmable.talk,available,38.99,38.99,medium,low,10,namesilo,,,
-a2280c21-7777-49aa-9658-6e5f99b6bfd5,employment.talk,premium,71.4,71.4,high,low,10,namesilo,,,
+682e007a-5b68-4c4f-b679-ab15df70b7a3,affirmable.talk,available,38.99,38.99,high,low,10,namesilo,,,
+a2280c21-7777-49aa-9658-6e5f99b6bfd5,employment.talk,premium,66.02,66.02,high,low,10,porkbun,,,29/09/2026 18:07
 f38cff93-5a6e-42e8-b592-12fdff8386e5,madrona.talk,available,38.99,38.99,medium,low,7,namesilo,,,20/09/2026 01:01
+e707fe35-1efb-484c-99c3-19078c4be7d4,kingsbury.talk,available,31.25,31.25,high,low,9,spaceship,,,29/09/2026 22:52
 ad87f452-eab4-4c80-8a6f-a14c89885947,offerings.talk,premium,71.4,71.4,medium,low,9,namesilo,,,18/09/2026 10:39
-c56b3dd4-f398-4be4-902a-1519fc3e31dc,phonologic.talk,available,41.98,46.98,medium,low,10,namecheap,,,08/09/2026 19:14
+c56b3dd4-f398-4be4-902a-1519fc3e31dc,phonologic.talk,available,41.98,46.98,high,low,10,namecheap,,,08/09/2026 19:14
 aa0cb461-f532-4214-b924-acdde741c12e,afterward.talk,available,38.99,38.99,medium,low,9,namesilo,,,
 a39f1d66-45cf-42de-9aa2-32e3a6368417,hydric.talk,available,38.99,38.99,medium,low,6,namesilo,,,21/08/2026 16:23
 eb403d2d-664f-4b47-ad3f-859a4fc45290,retro.talk,premium,640,640,high,medium,5,namesilo,,,24/09/2026 15:44
@@ -253,8 +275,9 @@ a7e57a01-a4ff-4153-8f43-cf45658152cb,transverse.talk,available,38.99,38.99,high,
 b08ed4fe-58af-4b1b-a4c1-31180709fc34,parthian.talk,available,38.99,38.99,medium,low,8,namesilo,,,08/09/2026 01:59
 fa7e31ac-a3d2-4a85-828c-72781f2db200,frog.talk,premium,312.5,312.5,high,low,4,name.com,,,05/08/2026 21:03
 42de13e7-69e9-498f-9b98-7937dd656b4b,abram.talk,premium,153.6,153.6,high,low,5,namesilo,,,28/09/2026 15:50
-571673d8-6c16-4d4a-b1d0-07662d1e7a61,windswept.talk,premium,71.4,71.4,medium,low,9,namesilo,,,13/09/2026 12:16
+571673d8-6c16-4d4a-b1d0-07662d1e7a61,windswept.talk,premium,71.4,71.4,high,low,9,namesilo,,,13/09/2026 12:16
 a5ec5a3a-833b-46f3-8be6-5fe181613b60,prelate.talk,available,38.99,38.99,medium,low,7,namesilo,,,20/09/2026 02:36
+73d990dc-d75a-4cfb-98c2-994cf2e2e62a,nigra.talk,available,38.99,38.99,medium,low,5,namesilo,,,30/09/2026 02:04
 6bbe5aa5-8044-4112-a150-c6ede77c4316,ectopic.talk,available,38.99,38.99,medium,low,7,namesilo,,,14/08/2026 23:57
 fe54a678-9725-48e1-b9e9-00b3550d374c,nantucket.talk,available,31.25,31.25,medium,low,9,spaceship,,,28/09/2026 19:57
 659f484e-a464-416d-8a93-ffe70c4ec969,sightless.talk,available,38.99,38.99,high,medium,9,namesilo,,,10/09/2026 07:56
@@ -265,10 +288,11 @@ c0a8184a-4bbe-4377-b607-0226b40821d1,agility.talk,available,59.99,59.99,high,low
 2678a020-e267-4416-8449-4c1958609437,snitcher.talk,available,38.99,38.99,medium,low,8,namesilo,,,19/09/2026 14:14
 9deec38d-2c50-41ec-a8a8-154f71cbba3e,uptown.talk,premium,150,150,high,low,6,name.com,,,12/09/2026 23:28
 363496c8-286e-4935-8942-0cecb548aa98,cbs.talk,premium,640,640,high,medium,3,namesilo,,,25/09/2026 13:14
-d1076427-f602-450b-8844-9f75f2edf673,masses.talk,available,38.99,38.99,high,low,6,namesilo,,,
+d1076427-f602-450b-8844-9f75f2edf673,masses.talk,available,41.98,46.98,high,low,6,namecheap,,,29/09/2026 22:51
 2a3d01ed-25a5-455f-883f-84d1f22fbd2e,yeoman.talk,available,38.99,38.99,medium,low,6,namesilo,,,23/09/2026 01:07
 ece2cc25-4c5c-43d6-bc59-455bbee2afda,esthete.talk,available,38.99,38.99,medium,low,7,namesilo,,,17/09/2026 13:35
 f70d23a3-a37c-4437-8ec3-5529a722d857,overlook.talk,premium,75,,high,low,8,name.com,,,
+a76982f7-75e1-4fcf-ab7d-ae56071da9fa,requiring.talk,premium,71.4,71.4,high,low,9,namesilo,,,30/09/2026 03:46
 7871b847-7596-41df-8c3e-2c86863617ea,exposed.talk,premium,625,625,high,low,7,name.com,,,17/08/2026 18:37
 90c1edb0-1a62-4471-be83-deb74419a506,borders.talk,premium,62.3,62.3,medium,low,7,spaceship,,,28/09/2026 23:27
 72516a40-0a2a-48fc-9672-38ad07b6e84f,ungrateful.talk,available,38.99,38.99,medium,low,10,namesilo,,,11/09/2026 12:26
@@ -278,7 +302,7 @@ eb567154-94fb-4bc2-b98b-a671df0d52ae,hunchback.talk,premium,71.4,71.4,medium,low
 04874ce9-415e-47d9-85bb-d4020ade4558,how.talk,premium,625,,high,low,3,name.com,,,
 df6be6c9-9a2d-4d60-bebf-3ddb5213bd34,stew.talk,available,38.99,38.99,medium,low,4,namesilo,,,28/09/2026 09:50
 99ae8513-ec58-40a2-8b3d-88f068dbb665,occasionally.talk,premium,62.3,62.3,high,low,12,spaceship,,,27/09/2026 17:20
-bde44990-23c5-419f-ba33-630e468bcf0f,scrubbed.talk,available,31.25,31.25,medium,low,8,spaceship,,,27/09/2026 18:56
+bde44990-23c5-419f-ba33-630e468bcf0f,scrubbed.talk,available,31.25,31.25,high,low,8,spaceship,,,27/09/2026 18:56
 c4c027df-43f5-4c4e-926f-872422938111,rusty.talk,available,38.99,38.99,high,low,5,namesilo,,,04/09/2026 18:46
 a35c0cd0-30a5-478d-8b00-b7b0306ca509,belong.talk,premium,71.4,71.4,high,low,6,namesilo,,,
 bfc5cfcd-de8b-4c57-9459-993355350032,catching.talk,available,41.98,46.98,high,low,8,namecheap,,,11/08/2026 21:16
@@ -290,22 +314,23 @@ b312cb8d-9145-46a9-8fb9-70d3b569b25e,dispatching.talk,available,38.99,38.99,high
 f38bad25-0c51-4793-9a68-5dc6db9fed43,cafeteria.talk,available,41.98,46.98,high,low,9,namecheap,,,24/09/2026 11:37
 8129ef38-cd09-47d7-8643-3fff671b099c,alexandria.talk,premium,71.4,71.4,high,low,10,namesilo,,,18/09/2026 06:02
 8f9de7d7-ef51-49d6-b92d-5f450a3c2569,horseback.talk,premium,71.4,71.4,high,low,9,namesilo,,,21/09/2026 23:38
-fea9bc23-108a-4e81-a7ed-7c4e3d46b20a,diverging.talk,available,38.99,38.99,medium,low,9,namesilo,,,14/08/2026 13:37
+fea9bc23-108a-4e81-a7ed-7c4e3d46b20a,diverging.talk,available,38.99,38.99,high,low,9,namesilo,,,14/08/2026 13:37
 934db062-f086-46ad-a934-973ff0a2ee0d,evaporated.talk,available,38.99,38.99,medium,low,10,namesilo,,,17/08/2026 14:45
 12ff436a-dedd-40e5-b291-5a03cd88c036,businesses.talk,premium,78,78,medium,low,10,namecheap,,,28/09/2026 04:57
 1c1a7b8c-cb73-46c9-bae7-d1cfa3c5053e,lessons.talk,premium,78,78,medium,low,7,namecheap,,,25/09/2026 19:53
 48f8179e-5214-4449-a9f3-02fe95f70bb1,drums.talk,premium,153.6,153.6,medium,low,5,namesilo,,,18/09/2026 11:40
 a9f79278-3022-43ee-9c39-51566450ec44,artists.talk,premium,66,66,high,low,7,dynadot,,,28/09/2026 00:02
 310f0e07-0ddf-4a9d-916c-d68e78fc9714,tooth.talk,premium,156,156,high,low,5,namecheap,,,19/09/2026 18:20
-9e1c413d-9278-4693-90f6-f23ecf544e6e,cleopatra.talk,available,38.99,38.99,high,low,9,namesilo,,,
+9e1c413d-9278-4693-90f6-f23ecf544e6e,cleopatra.talk,available,32.32,32.32,high,low,9,dynadot,,,29/09/2026 09:59
 86ff9ed6-32c5-4033-84c0-17cadd1134da,exodus.talk,premium,153.6,153.6,high,low,6,namesilo,,,24/09/2026 06:52
-1df30030-492a-4792-88c3-ebf9e5b2a562,filial.talk,available,38.99,38.99,medium,low,6,namesilo,,,18/08/2026 04:17
+1df30030-492a-4792-88c3-ebf9e5b2a562,filial.talk,available,38.99,38.99,high,low,6,namesilo,,,18/08/2026 04:17
 afd26ba7-c7e2-4f45-923a-3862742f67b4,chekhov.talk,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 15:27
 25b0be41-c975-42fa-8565-0d1e3552ca3c,adps.talk,available,38.99,38.99,medium,low,4,namesilo,,,17/09/2026 09:53
 21dfb4d3-10df-420a-981a-831e30a91208,schenectady.talk,available,41.98,46.98,medium,low,11,namecheap,,,28/09/2026 12:25
 912ae00f-2f78-43e8-9b58-40fe690cda64,einstein.talk,available,31.25,31.25,high,low,8,spaceship,,,28/09/2026 20:04
+16df3da3-e8b8-46b7-92e7-814815d01938,espionage.talk,available,38.99,38.99,high,low,9,namesilo,,,29/09/2026 06:49
 a533ef1a-93a3-4f30-b27d-230946643412,koranic.talk,available,38.99,38.99,medium,low,7,namesilo,,,22/08/2026 16:59
-a7f1a1e2-335b-4358-a1f3-42385b77651a,memories.talk,premium,71.4,71.4,medium,low,8,namesilo,,,25/09/2026 17:07
+a7f1a1e2-335b-4358-a1f3-42385b77651a,memories.talk,premium,71.4,71.4,high,low,8,namesilo,,,25/09/2026 17:07
 cf462638-98af-4247-9f8b-4ca4679796d2,prisoners.talk,premium,78,78,medium,low,9,namecheap,,,25/09/2026 20:27
 73f06045-e320-4024-966d-bf74a5ee1fa5,abb.talk,premium,3450,3450,high,medium,3,namesilo,,,16/09/2026 14:19
 8eebfa9e-7013-40ed-8519-c76f258831af,multiform.talk,available,38.99,38.99,high,low,9,namesilo,,,03/09/2026 10:41
@@ -316,8 +341,9 @@ b300367f-b008-4c6a-88a4-1c97679dfb4f,skyway.talk,available,41.98,46.98,high,low,
 5fe1f025-7b15-43a9-b245-cb69fe6ea46c,dirt.talk,premium,325,325,high,low,4,namecheap,,,24/09/2026 10:53
 d2f8022a-6399-4319-a2ff-56e2b2cf6030,jul.talk,premium,650,650,medium,low,3,namecheap,,,28/09/2026 21:44
 0050507b-458a-4ff4-a42e-7344c5dd03ff,amaranth.talk,available,38.99,38.99,high,low,8,namesilo,,,18/09/2026 15:50
-5dd7f9c3-4eec-4ac9-a926-a260cdb41ab1,teacher.talk,premium,71.4,71.4,high,low,7,namesilo,,,
-013b5f59-8a17-4ec0-9361-3729aca3c1ac,burns.talk,premium,153.6,153.6,medium,low,5,namesilo,,,25/09/2026 03:46
+5dd7f9c3-4eec-4ac9-a926-a260cdb41ab1,teacher.talk,premium,66.02,66.02,high,low,7,porkbun,,,30/09/2026 00:13
+19f0c633-d7a8-4814-8df0-26d007ac3834,physicians.talk,premium,66,66,high,low,10,dynadot,,,30/09/2026 00:16
+013b5f59-8a17-4ec0-9361-3729aca3c1ac,burns.talk,premium,153.6,153.6,high,low,5,namesilo,,,25/09/2026 03:46
 94c69dca-8319-4ee2-a7fe-1375dcafff45,mercury.talk,premium,78,78,high,medium,7,namecheap,,,09/09/2026 08:45
 e761ec39-d1b4-4565-a70d-9449b98d8446,runny.talk,available,38.99,38.99,medium,low,5,namesilo,,,09/09/2026 19:37
 3062326d-7b7d-43d9-926b-c7a752e07dd6,pedant.talk,available,38.99,38.99,medium,low,6,namesilo,,,09/09/2026 23:15
@@ -325,15 +351,15 @@ e6cbbc03-4313-4aa2-8947-646c1f0dd388,mouldy.talk,available,38.99,38.99,medium,lo
 5d0dca79-b8ad-4fc8-9d0a-f01478042922,barrel.talk,premium,71.4,71.4,high,low,6,namesilo,,,22/09/2026 08:08
 d4d6eb7b-5a62-41b2-81c9-c90422e7add0,flaw.talk,available,32.32,32.32,medium,low,4,dynadot,,,29/09/2026 00:57
 9d54957b-eeda-428c-85c6-b69aea95e87f,rhodesian.talk,available,38.99,38.99,high,low,9,namesilo,,,09/09/2026 16:41
-bfb2dde5-1759-45d3-9a8f-541163d2a3b4,ruiz.talk,premium,153.6,153.6,medium,low,4,namesilo,,,27/09/2026 07:03
+bfb2dde5-1759-45d3-9a8f-541163d2a3b4,ruiz.talk,premium,153.6,153.6,high,low,4,namesilo,,,27/09/2026 07:03
 777fe372-483d-44fa-a9ac-835188886919,before.talk,premium,71.4,71.4,high,low,6,namesilo,,,21/09/2026 23:34
 b582d763-c812-4a0e-83f8-c61d3081757b,stevenson.talk,premium,156,156,high,low,9,namecheap,,,17/09/2026 08:37
 b60b0062-b0f8-4763-94db-0ed02bf50ef1,daily.talk,premium,650,650,high,medium,5,namecheap,,,24/09/2026 04:21
 a3f54855-87f8-42ae-b581-fdeaf0b8d01a,equal.talk,premium,156,156,high,low,5,namecheap,,,21/09/2026 18:27
 526dce23-4de2-458b-895b-3d6e97be419d,communists.talk,available,31.25,31.25,low,low,10,spaceship,,,28/09/2026 13:10
 3e4aa2df-7b87-47f4-84ac-bc8516145ac7,goodly.talk,available,38.99,38.99,high,low,6,namesilo,,,20/08/2026 16:36
-c2e15a70-3a26-42ae-bf66-8b844639f764,tailored.talk,available,38.99,38.99,medium,low,8,namesilo,,,09/08/2026 17:32
-e0478f40-7219-4c49-8cd6-f0bf90c8d093,hauteur.talk,available,38.99,38.99,medium,low,7,namesilo,,,20/09/2026 09:20
+c2e15a70-3a26-42ae-bf66-8b844639f764,tailored.talk,available,38.99,38.99,high,low,8,namesilo,,,09/08/2026 17:32
+e0478f40-7219-4c49-8cd6-f0bf90c8d093,hauteur.talk,available,38.99,38.99,high,low,7,namesilo,,,20/09/2026 09:20
 7c766da4-22ca-4359-92e6-2a7c607d6f42,screening.talk,premium,78,78,high,low,9,namecheap,,,
 002819bc-1db9-41de-8dde-57650fabed75,breadfruit.talk,premium,71.4,71.4,high,low,10,namesilo,,,20/09/2026 11:57
 0ce19587-92e2-41d4-b7d5-8e7aa2a6cd83,doe.talk,premium,517.7,517.7,high,low,3,spaceship,,,29/09/2026 00:39
@@ -342,7 +368,7 @@ d059c760-5f17-4a0f-bbaa-21ce3d9dbd50,community.talk,premium,625,625,high,medium,
 ae7cb30c-60a1-494e-bea2-fefc28ca3851,champions.talk,premium,78,78,high,low,9,namecheap,,,28/09/2026 13:32
 b12e8c0b-8e07-469b-b257-ddab6f55dddf,blue.talk,premium,302.5,302.5,high,medium,4,namesilo,,,22/09/2026 07:49
 f8e67748-a99b-4a55-8783-e90de863072c,transportation.talk,premium,71.4,71.4,high,low,14,namesilo,,,19/09/2026 03:16
-62a8ce20-6ec8-43fa-8c18-cc2717e6c413,aldose.talk,available,38.99,38.99,medium,low,6,namesilo,,,18/09/2026 04:38
+62a8ce20-6ec8-43fa-8c18-cc2717e6c413,aldose.talk,available,38.99,38.99,high,low,6,namesilo,,,18/09/2026 04:38
 fd6c78c6-033e-4ba9-92c0-dc3dc553dd09,dedicate.talk,available,38.99,38.99,high,low,8,namesilo,,,
 d108e4d9-7611-479a-8f05-9af5a04a807b,unshakable.talk,available,38.99,38.99,high,low,10,namesilo,,,23/09/2026 10:41
 390a4350-604e-4a4a-8c99-f6c0763eba64,nucleate.talk,available,38.99,38.99,medium,low,8,namesilo,,,03/09/2026 22:24
@@ -357,7 +383,7 @@ c417cdda-e21a-4826-8b38-8c37cd4dc1ab,quelled.talk,available,38.99,38.99,medium,l
 337b3ba2-92e8-4381-810e-6ad1481a768f,undersexed.talk,available,38.99,38.99,medium,low,10,namesilo,,,12/09/2026 07:31
 294abfd7-682f-4a5a-be14-07c8567039a5,later.talk,premium,153.6,153.6,high,low,5,namesilo,,,21/09/2026 22:11
 80208570-cefe-414b-9005-a83668ab74d3,pinwheel.talk,premium,78,78,high,low,8,namecheap,,,17/09/2026 12:41
-645c6b47-f339-44bc-b0b6-20339d86b844,likes.talk,premium,150,,medium,low,5,name.com,,,
+645c6b47-f339-44bc-b0b6-20339d86b844,likes.talk,premium,150,,high,low,5,name.com,,,
 2a0c85f8-a282-47f6-a483-ea2ed87158cd,judy.talk,premium,325,325,high,low,4,namecheap,,,25/09/2026 11:45
 f804ae5b-216e-4861-9e92-7680a8b3ebf9,breasts.talk,premium,625,,medium,low,7,name.com,,,
 f92ffe5c-b2b5-4f43-ba92-39c1e61b0d0b,frighten.talk,available,41.98,46.98,medium,low,8,namecheap,,,17/09/2026 14:50
@@ -366,13 +392,13 @@ dfd87aa1-8257-4a6f-9003-a622a6baba8a,amendment.talk,premium,78,78,high,low,9,nam
 317157bf-a593-4368-a72d-f4366429e1e4,wad.talk,premium,625,625,high,low,3,name.com,,,25/08/2026 00:49
 8e4f0b44-229d-4279-be18-96643d72bffe,addition.talk,premium,78,78,high,low,8,namecheap,,,28/09/2026 18:22
 cea653d4-afb0-444f-9a8d-1af6352b63bd,pulmonary.talk,available,38.99,38.99,high,low,9,namesilo,,,09/09/2026 05:54
-5bf60410-0045-4959-aece-4c9073cfa870,taped.talk,available,38.99,38.99,medium,low,5,namesilo,,,11/09/2026 08:15
+5bf60410-0045-4959-aece-4c9073cfa870,taped.talk,available,38.99,38.99,high,low,5,namesilo,,,11/09/2026 08:15
 b95fc770-71dd-4ea8-8ca0-e8bc61aa9e0f,graham.talk,premium,71.4,71.4,high,low,6,namesilo,,,23/09/2026 16:49
 3f55641e-a06f-46df-864d-38b9901627a5,terminators.talk,available,38.99,38.99,low,low,11,namesilo,,,20/09/2026 12:06
 6aee7b04-6158-42ef-9efe-4bf9321c1ffe,petite.talk,premium,71.4,71.4,medium,low,6,namesilo,,,08/08/2026 14:24
-2bb0465e-32b9-4d79-b017-7afeb9528b40,shin.talk,available,38.99,38.99,high,low,4,namesilo,,,
+2bb0465e-32b9-4d79-b017-7afeb9528b40,shin.talk,available,38.99,38.99,high,low,4,namesilo,,,29/09/2026 09:47
 fc6ce8c7-b615-45f8-b1d4-730b1f37bdf6,cheeky.talk,available,38.99,38.99,high,low,6,namesilo,,,11/08/2026 02:26
-933d2ed5-408d-42a6-8b6b-d12e7bf8cc2e,willie.talk,premium,150,150,medium,low,6,name.com,,,25/09/2026 11:47
+933d2ed5-408d-42a6-8b6b-d12e7bf8cc2e,willie.talk,premium,150,150,high,low,6,name.com,,,25/09/2026 11:47
 7024762e-1e0c-4597-bcd0-e6ac489a2af1,commonly.talk,premium,78,78,medium,low,8,namecheap,,,28/09/2026 14:12
 a8965e02-f038-4b8e-912b-a77fb5b0d89b,reaction.talk,premium,78,78,high,low,8,namecheap,,,24/09/2026 14:16
 bfaa3c79-bb53-49c7-953d-98ee401b33a1,deposits.talk,premium,75,,medium,low,8,name.com,,,
@@ -380,7 +406,8 @@ bfaa3c79-bb53-49c7-953d-98ee401b33a1,deposits.talk,premium,75,,medium,low,8,name
 659a7cdb-d86e-45a3-8cf5-ed9656d8f424,mournfully.talk,available,38.99,38.99,medium,low,10,namesilo,,,15/09/2026 15:33
 7220c407-4a26-4b98-b295-21b304a51738,shaven.talk,available,38.99,38.99,high,medium,6,namesilo,,,10/09/2026 06:07
 5743ea11-c6b1-4036-ad77-db1308fff66c,apprentice.talk,available,38.99,38.99,high,low,10,namesilo,,,19/09/2026 22:15
-329a649e-b9af-416f-9ccf-55d31d91147b,momently.talk,available,38.99,38.99,medium,low,8,namesilo,,,15/09/2026 15:21
+402bd565-18e9-44fd-974e-2747a18e70f3,physicist.talk,available,31.25,31.25,high,low,9,spaceship,,,29/09/2026 19:58
+329a649e-b9af-416f-9ccf-55d31d91147b,momently.talk,available,38.99,38.99,high,low,8,namesilo,,,15/09/2026 15:21
 c1ae6ed7-cc5f-4079-a32d-1af56d8638ca,fantasy.talk,premium,640,640,high,low,7,namesilo,,,24/09/2026 16:36
 db86a5fe-8fe1-4ec7-836b-64b4d6165fa5,deaf.talk,premium,312.5,312.5,high,low,4,name.com,,,13/08/2026 19:42
 7f9c379f-8f32-400a-a0e7-845d56fd2c22,pinch.talk,available,38.99,38.99,high,low,5,namesilo,,,28/09/2026 22:16
@@ -390,21 +417,23 @@ ab8b4bbe-3d97-485f-b9ef-455ef6c96328,necessity.talk,premium,71.4,71.4,high,low,9
 84d4b0d2-f74c-482a-9853-ee1da4121174,towards.talk,premium,71.4,71.4,high,low,7,namesilo,,,
 c84fb1e7-6a0f-4416-ad03-e2bfbd8899be,torch.talk,available,41.98,46.98,high,low,5,namecheap,,,28/09/2026 16:58
 9e5512f1-7c5b-41bb-acf1-8a859f75664e,crows.talk,available,38.99,38.99,high,low,5,namesilo,,,20/09/2026 17:41
-537f8e37-12b1-404d-a516-714e321fdc89,forming.talk,premium,62.3,62.3,medium,low,7,spaceship,,,28/09/2026 15:43
+537f8e37-12b1-404d-a516-714e321fdc89,forming.talk,premium,62.3,62.3,high,low,7,spaceship,,,28/09/2026 15:43
 41c3c847-e082-4118-9f2a-f55e333794fd,adlumia.talk,available,41.98,46.98,medium,low,7,namecheap,,,17/09/2026 08:37
+4ac24e69-cf25-495f-ae01-b9adebaf2336,manhood.talk,available,25,31.41,high,low,7,porkbun,,,29/09/2026 19:12
+7dae7bf8-20c9-4199-bee3-39fb41f00ab5,chemotherapy.talk,available,32.32,32.32,medium,low,12,dynadot,,,29/09/2026 16:06
 25cab3fb-aa45-4812-8337-bf393c6dedca,acrolein.talk,available,38.99,38.99,medium,low,8,namesilo,,,17/09/2026 03:46
 8ef2f9a1-7682-4b51-9b22-69218628ebe5,tan.talk,premium,640,640,high,low,3,namesilo,,,11/09/2026 07:50
 8d53c27e-a136-4ba2-a8ba-dc0df05c6f25,chatoyant.talk,available,38.99,38.99,medium,low,9,namesilo,,,12/08/2026 03:13
 76464144-82df-4f80-bda7-45bdb763ef80,sophia.talk,premium,153.6,153.6,high,low,6,namesilo,,,28/09/2026 07:06
 25a5faae-adba-408e-a177-b4ae4bf3e59d,achene.talk,available,38.99,38.99,medium,low,6,namesilo,,,17/09/2026 00:28
 051d1969-bd7f-48ae-97ce-8d58e3386d69,truncate.talk,available,38.99,38.99,high,low,8,namesilo,,,11/09/2026 20:40
-ee760a60-3b54-44aa-a211-beea486be763,knowingly.talk,available,38.99,38.99,medium,low,9,namesilo,,,15/09/2026 10:35
+ee760a60-3b54-44aa-a211-beea486be763,knowingly.talk,available,38.99,38.99,high,low,9,namesilo,,,15/09/2026 10:35
 b98ce268-3768-4c09-9faa-6746d6a5a27b,apiary.talk,available,38.99,38.99,high,low,6,namesilo,,,19/09/2026 17:20
 2f8b61c9-f212-4203-8fe3-0a489ad47461,thrasher.talk,available,38.99,38.99,medium,low,8,namesilo,,,18/09/2026 13:24
-c7f31dde-f200-48cd-b699-a99c62d37cb0,wished.talk,available,41.98,46.98,medium,low,6,namecheap,,,17/09/2026 18:39
+c7f31dde-f200-48cd-b699-a99c62d37cb0,wished.talk,available,41.98,46.98,high,low,6,namecheap,,,17/09/2026 18:39
 987e9693-1064-4f45-901d-aa3e897ad5d3,unkeyed.talk,available,38.99,38.99,low,low,7,namesilo,,,07/08/2026 13:50
 ca5a55a3-e4b2-46c2-a734-cd6ed2dd2657,annual.talk,premium,71.4,71.4,high,low,6,namesilo,,,22/09/2026 05:27
-6d6c7631-0b7c-4d05-a352-1225b0bb0c57,clash.talk,available,38.99,38.99,high,low,5,namesilo,,,
+6d6c7631-0b7c-4d05-a352-1225b0bb0c57,clash.talk,available,38.99,38.99,high,low,5,namesilo,,,29/09/2026 09:50
 21c4166c-0b1a-4e2b-8d0f-a862b90348ac,guiltless.talk,available,38.99,38.99,high,low,9,namesilo,,,12/08/2026 10:18
 fc001228-9a26-434c-8ecc-dfcdee278a0e,truant.talk,available,38.99,38.99,high,low,6,namesilo,,,08/08/2026 01:41
 18fd5bbb-7cf2-47b8-bfb5-f7572dc782f0,tacit.talk,available,38.99,38.99,high,low,5,namesilo,,,11/09/2026 06:56
@@ -430,7 +459,7 @@ a5b23e58-43a5-4852-b9c8-17bc0f110a0c,light.talk,premium,150,150,high,low,5,name.
 4427ab4e-d465-4bdb-811c-45b305043094,ldopa.talk,available,38.99,38.99,high,low,6,namesilo,,,23/09/2026 07:45
 82b99de8-0c40-40d6-b9f5-faa6985f0dd1,remain.talk,premium,75,,high,low,6,name.com,,,
 407bb55c-1181-4bfe-893b-283e7b4f98a6,whiskered.talk,available,38.99,38.99,medium,low,9,namesilo,,,08/08/2026 16:15
-8a6e3a1e-bc87-4bc4-b396-b27d625ab8b6,impede.talk,available,38.99,38.99,medium,low,6,namesilo,,,21/08/2026 09:28
+8a6e3a1e-bc87-4bc4-b396-b27d625ab8b6,impede.talk,available,38.99,38.99,high,low,6,namesilo,,,21/08/2026 09:28
 b6b0939c-65ec-4846-96d3-c1294a387e73,duckling.talk,available,38.99,38.99,high,low,8,namesilo,,,25/09/2026 00:17
 65d31029-347c-400a-be81-dde9790085c6,aires.talk,available,41.98,46.98,medium,low,5,namecheap,,,25/09/2026 21:54
 4df7b70d-d925-4407-a81b-36d3b41c2700,aboulic.talk,available,38.99,38.99,medium,low,7,namesilo,,,
@@ -441,6 +470,7 @@ ee81ad43-2397-4576-99fb-5e41ef77fd1f,flashily.talk,available,41.98,46.98,medium,
 77c1a062-a245-47bb-a0ff-e866a0c4c2fb,andrena.talk,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 04:31
 81266a46-b237-40c2-8611-e568f9ffba14,anaglyphic.talk,available,38.99,38.99,medium,low,10,namesilo,,,
 259f7ca1-ec8e-47aa-9642-66b702d482e5,zeroth.talk,available,38.99,38.99,medium,low,6,namesilo,,,13/09/2026 15:14
+a3d9a4b5-0753-4260-8794-ac559a573c2e,evasion.talk,available,25,31.41,high,low,7,porkbun,,,29/09/2026 18:40
 7ffee0a8-563e-48c1-b101-24a198d6e937,grubby.talk,available,38.99,38.99,medium,low,6,namesilo,,,09/08/2026 09:31
 c3361f95-55cf-4882-91bf-7cd08ac3e444,denary.talk,available,41.98,46.98,medium,low,6,namecheap,,,13/08/2026 21:30
 caa1cb2c-431f-455f-b2ce-f351f29462a7,toad.talk,available,41.98,46.98,high,low,4,namecheap,,,05/08/2026 21:06
@@ -456,14 +486,15 @@ c966b044-f8af-4cda-9606-b891a3fd0126,prize.talk,premium,150,150,high,low,5,name.
 c646b8d3-c213-42e0-8844-f9e4cb949617,firefighter.talk,premium,75,,high,low,11,name.com,,,
 f8fae7fe-08a3-4456-b542-ad123b6b6a69,adorables.talk,available,38.99,38.99,high,low,9,namesilo,,,
 92026b68-8d14-41e9-94be-17ea1750f977,fiberoptic.talk,available,38.99,38.99,high,low,10,namesilo,,,18/08/2026 03:12
-07b00ec2-b017-4ba6-b469-837cbbc81b08,buster.talk,available,32.32,32.32,medium,low,6,dynadot,,,29/09/2026 00:10
+07b00ec2-b017-4ba6-b469-837cbbc81b08,buster.talk,available,32.32,32.32,high,low,6,dynadot,,,29/09/2026 00:10
 68040e72-6229-4120-8ed1-81c98d823533,harmonize.talk,available,38.99,38.99,high,low,9,namesilo,,,16/09/2026 22:54
 112a8756-285d-42f8-bef0-2bbc1cc524ec,sailed.talk,available,41.98,46.98,high,low,6,namecheap,,,17/09/2026 07:33
-ee0bde60-83b9-491b-a393-66ef3f6c49c0,plummy.talk,available,38.99,38.99,medium,low,6,namesilo,,,08/09/2026 21:51
+ee0bde60-83b9-491b-a393-66ef3f6c49c0,plummy.talk,available,38.99,38.99,high,low,6,namesilo,,,08/09/2026 21:51
 094bd8d4-ba72-417b-b4f9-d89a60c56d11,crass.talk,available,38.99,38.99,medium,low,5,namesilo,,,13/08/2026 05:23
 f8414237-cd7f-4330-9c75-9a3a72bd1a6b,toller.talk,available,38.99,38.99,medium,low,6,namesilo,,,23/09/2026 05:41
+bf61dde4-055e-46c2-93c2-944c916a7be3,sleeper.talk,available,38.99,38.99,medium,low,7,namesilo,,,29/09/2026 06:29
 3836004d-c966-4bd0-9166-76de7a3d5c2f,vociferous.talk,available,38.99,38.99,medium,low,10,namesilo,,,12/08/2026 09:21
-389da3a2-0055-4c6f-9270-1bb8ef6099f5,enumerate.talk,available,38.99,38.99,medium,low,9,namesilo,,,03/09/2026 22:58
+389da3a2-0055-4c6f-9270-1bb8ef6099f5,enumerate.talk,available,38.99,38.99,high,low,9,namesilo,,,03/09/2026 22:58
 b247e09d-fe76-4026-93f8-4dda44bbd86b,male.talk,premium,325,325,high,low,4,namecheap,,,25/09/2026 16:34
 63fec745-ee8f-40b0-a587-49ea170dc058,arcsecond.talk,available,38.99,38.99,medium,low,9,namesilo,,,20/09/2026 02:41
 d0113640-e091-4f30-b06b-34cccd8f8bad,algerian.talk,available,38.99,38.99,high,low,8,namesilo,,,
@@ -477,13 +508,14 @@ f1ff1bbc-5c33-4fc2-ab7a-30707c3b68eb,wash.talk,premium,302.5,302.5,high,low,4,na
 cc8d389e-33e6-464e-bbbe-b03acd757dc9,recidivist.talk,available,38.99,38.99,medium,low,10,namesilo,,,21/09/2026 15:57
 bac6ab04-9cf2-47f0-9fdc-19633fc96bf0,storm.talk,premium,150,150,high,medium,5,name.com,,,25/09/2026 10:14
 467579ea-3a8e-4e19-b629-38af9ab6472f,drome.talk,available,38.99,38.99,high,low,5,namesilo,,,17/09/2026 12:59
+44de8915-a342-4736-b8db-3a40ce6f9e45,hwy.talk,premium,517.7,517.7,medium,low,3,spaceship,,,29/09/2026 05:03
 495c72b7-d279-4892-8266-c012afc93d37,vesica.talk,available,38.99,38.99,medium,low,6,namesilo,,,24/09/2026 03:27
 7a5b7e6b-4dae-42f0-a681-cb7489e1d8d9,multilevel.talk,available,38.99,38.99,medium,low,10,namesilo,,,03/09/2026 10:46
+37b0edd3-f61b-4e74-bf37-8ea55b1e590c,presiding.talk,available,38.99,38.99,medium,low,9,namesilo,,,29/09/2026 16:06
 3353feb5-e8df-4552-ae73-4991908dd399,interbrain.talk,available,38.99,38.99,medium,low,10,namesilo,,,23/09/2026 11:55
 9b61c947-ba2d-4f99-9bcb-bab8fb1ebe04,demonstrations.talk,available,38.99,38.99,medium,low,14,namesilo,,,
 049590db-e661-4c88-8886-a08f49f6aa37,yesteryear.talk,available,38.99,38.99,high,low,10,namesilo,,,08/09/2026 10:02
 685df005-db69-4364-8481-af31c9ef7bca,declension.talk,available,38.99,38.99,medium,low,10,namesilo,,,13/09/2026 13:21
-8b83b15f-d14d-40b7-937e-40f908ba3d23,developer.talk,available,,,high,low,9,,,,
 b92802b9-6c7f-4b34-8218-db84639d8a05,mega.talk,premium,625,,high,medium,4,name.com,,,
 dd7af3e4-d4a2-446e-9beb-7ba2950f32b0,warned.talk,premium,71.4,71.4,medium,low,6,namesilo,,,18/09/2026 02:46
 a7c7cd59-295f-4f6f-9f39-d75b25d1c2e7,finable.talk,available,38.99,38.99,medium,low,7,namesilo,,,18/08/2026 04:28
@@ -492,24 +524,25 @@ d2a24e36-9e49-4e3f-9535-e191ec1dc474,unidentified.talk,available,31.25,31.25,med
 7bb74b9b-ce95-4980-952f-e4ebd8e9c9b6,ballota.talk,available,38.99,38.99,medium,low,7,namesilo,,,21/09/2026 23:16
 5af984bf-69b7-4172-842c-541506d591fd,resurrection.talk,available,31.25,31.25,high,low,12,spaceship,,,28/09/2026 16:51
 c428308d-68db-4f38-b1df-5824fdef4329,bartholdi.talk,available,41.98,46.98,medium,low,9,namecheap,,,22/09/2026 09:11
-815d1e72-468d-4007-bdc3-f6d6eae28172,vest.talk,available,38.99,38.99,medium,low,4,namesilo,,,28/09/2026 10:51
+815d1e72-468d-4007-bdc3-f6d6eae28172,vest.talk,available,38.99,38.99,high,low,4,namesilo,,,28/09/2026 10:51
 052cda93-4e7f-441a-950c-998f82d554c0,topless.talk,premium,625,625,medium,low,7,name.com,,,08/08/2026 18:33
 59f3c857-ff71-4961-bc5a-5eb4e091891a,mockingly.talk,available,38.99,38.99,medium,low,9,namesilo,,,14/09/2026 12:02
 4a67e9f5-2b98-483f-a76a-c733db833e9d,bumper.talk,premium,71.4,71.4,high,low,6,namesilo,,,24/09/2026 11:09
 b38be1a6-a7e3-4edd-9082-40d52cd29af6,plastic.talk,premium,78,78,high,low,7,namecheap,,,25/09/2026 21:21
+de381979-efe6-4c0b-b1cb-f85afc93d89e,wilfrid.talk,available,38.99,38.99,medium,low,7,namesilo,,,29/09/2026 09:35
 0b899f3d-f86a-4d88-8ef7-3224d202cf94,cordial.talk,available,41.98,46.98,high,low,7,namecheap,,,21/09/2026 21:39
 cbfc7b76-a6e0-4c4c-8ed1-f65cade75c32,supportive.talk,available,38.99,38.99,high,low,10,namesilo,,,28/09/2026 02:03
 1c212237-e1da-4e00-93c8-d557c5848c56,mckenna.talk,premium,124.4,124.4,high,low,7,spaceship,,,27/09/2026 19:59
 fe81813e-f6f7-4e69-ac05-9f33284c1740,indicated.talk,premium,71.4,71.4,medium,low,9,namesilo,,,28/09/2026 12:56
 c5d5ab07-4adc-4fba-802b-b9ef5c12f6d2,imbalance.talk,available,59.99,59.99,medium,low,9,name.com,,,20/09/2026 18:40
 40150838-65fc-4773-a7b5-1120551d6617,actors.talk,premium,75,,high,low,6,name.com,,,
-47b0ad73-088c-4f6c-bff1-ce387674cdc1,gandhi.talk,available,38.99,38.99,high,low,6,namesilo,,,
-b99f1509-1746-4e11-9c4a-c867022b9d59,vigor.talk,available,38.99,38.99,high,low,5,namesilo,,,
+47b0ad73-088c-4f6c-bff1-ce387674cdc1,gandhi.talk,available,31.25,31.25,high,low,6,spaceship,,,29/09/2026 20:38
+b99f1509-1746-4e11-9c4a-c867022b9d59,vigor.talk,available,31.25,31.25,high,low,5,spaceship,,,29/09/2026 22:25
 e2ff062e-9d35-43ba-955e-71212d69b2f5,invented.talk,available,38.99,38.99,high,low,8,namesilo,,,
 520e70b1-a3e7-4702-8b3b-a8f237ae87a1,isbn.talk,premium,302.5,302.5,high,low,4,namesilo,,,
 bef4bf78-ea6e-46bd-a372-dbc044014654,paramedic.talk,available,38.99,38.99,high,low,9,namesilo,,,08/09/2026 00:59
 5e8f01cf-6452-421c-9011-6880ec4ec7d9,chest.talk,premium,153.6,153.6,high,low,5,namesilo,,,24/09/2026 10:14
-55424d49-8450-4a78-b4a0-57f62c7aa384,quiz.talk,premium,325,325,high,low,4,namecheap,,,27/09/2026 02:23
+55424d49-8450-4a78-b4a0-57f62c7aa384,quiz.talk,premium,302.5,302.5,high,low,4,namesilo,,,29/09/2026 14:24
 a6adf474-d137-4c08-872a-ffa7f9ec0adb,downright.talk,premium,75,75,high,low,9,name.com,,,14/08/2026 17:50
 27df34f5-cfc2-40b2-8ae7-b422b6c7d4fe,guided.talk,premium,71.4,71.4,high,low,6,namesilo,,,20/08/2026 20:47
 4ee35f5d-7eb6-4d18-aee1-8343de4e4c12,fights.talk,premium,153.6,153.6,medium,low,6,namesilo,,,20/09/2026 00:14
@@ -518,7 +551,7 @@ a6adf474-d137-4c08-872a-ffa7f9ec0adb,downright.talk,premium,75,75,high,low,9,nam
 be0c0df6-7212-4069-bdf8-09116ab4a91b,controlled.talk,premium,71.4,71.4,high,low,10,namesilo,,,23/09/2026 22:39
 dcf79522-9f66-4d8d-8730-99723f5b514f,chives.talk,available,41.98,46.98,high,low,6,namecheap,,,18/09/2026 11:27
 2a4d68b9-2517-4714-abf8-95c26f6b81ce,monks.talk,available,32.32,32.32,medium,low,5,dynadot,,,28/09/2026 21:40
-57e56678-83f4-4e63-b314-a747fe97eeb3,alhakim.talk,available,41.98,46.98,medium,low,8,namecheap,,,18/09/2026 00:38
+57e56678-83f4-4e63-b314-a747fe97eeb3,alhakim.talk,available,41.98,46.98,high,low,8,namecheap,,,18/09/2026 00:38
 cf3833d8-3ce3-43e2-87bc-3bfe4b716bba,ratty.talk,available,38.99,38.99,medium,low,5,namesilo,,,25/08/2026 06:53
 93621095-bb81-430e-9c29-1146d60fd245,moistly.talk,available,38.99,38.99,low,low,7,namesilo,,,14/09/2026 10:31
 a0554ddb-87c4-4af1-bf80-93d5ebe6cb0c,blacking.talk,available,38.99,38.99,medium,low,8,namesilo,,,24/09/2026 02:49
@@ -536,6 +569,7 @@ a86f3f07-b2b6-4168-a275-7af3a74ec2ee,noseless.talk,available,38.99,38.99,low,low
 bd74fc47-1c57-41e9-921e-d59eddf033bb,rakes.talk,available,38.99,38.99,medium,low,5,namesilo,,,20/09/2026 22:29
 63a0d1e7-3f9d-44ca-bf9d-8e2d272cf30d,diurnal.talk,available,38.99,38.99,medium,low,7,namesilo,,,14/08/2026 13:34
 3c6f9050-c952-4edf-abed-49521b20e061,demode.talk,available,38.99,38.99,medium,low,6,namesilo,,,14/08/2026 01:13
+1d6da11e-6185-497c-af03-475318f56eec,offset.talk,premium,66,66,high,high,6,dynadot,,,29/09/2026 18:25
 72f7765a-90fc-433c-a09c-f357c6336513,subsurface.talk,available,38.99,38.99,high,low,10,namesilo,,,11/09/2026 00:52
 94d7c8bf-5a4f-4307-9b90-9dfd7c0328ca,arginine.talk,available,41.98,46.98,medium,low,8,namecheap,,,20/09/2026 04:24
 56b1c12d-63b0-4d9e-a4b3-b61861e87900,patter.talk,available,41.98,46.98,high,low,6,namecheap,,,15/09/2026 20:21
@@ -544,17 +578,19 @@ fe5713c8-00c3-48f5-9301-ec439abde136,tomboy.talk,available,46.98,,high,low,7,nam
 8ec3a7ae-f80e-4227-a90e-d2e689f9c2b4,seditious.talk,available,38.99,38.99,medium,low,9,namesilo,,,22/08/2026 01:29
 49aaf78a-52a2-46ef-8755-a1a3fe891536,aether.talk,available,38.99,38.99,high,medium,6,namesilo,,,17/09/2026 13:40
 7b48e31f-4d3e-494c-825d-93e68485984c,backyard.talk,premium,75,75,high,low,9,name.com,,,21/09/2026 16:22
+116442a1-d6ef-4488-b0c1-0bd2ec1284b2,commodore.talk,available,38.99,38.99,high,low,9,namesilo,,,29/09/2026 11:55
 d7e74c8b-bb79-4191-8df3-0982b6899d1b,etc.talk,premium,625,,high,low,3,name.com,,,
 39b6d8cf-e343-400e-a5a0-6c05d9fd6818,hanson.talk,premium,153.6,153.6,high,low,6,namesilo,,,25/09/2026 13:05
-effb0890-53ea-4a3e-b33f-1da371eb329d,ticklish.talk,available,38.99,38.99,medium,low,8,namesilo,,,11/09/2026 15:33
-4261617b-fa5e-4013-8c22-6d4fe1854e9c,promoter.talk,available,38.99,38.99,high,low,8,namesilo,,,
+effb0890-53ea-4a3e-b33f-1da371eb329d,ticklish.talk,available,38.99,38.99,high,low,8,namesilo,,,11/09/2026 15:33
+4261617b-fa5e-4013-8c22-6d4fe1854e9c,promoter.talk,available,38.99,38.99,high,low,8,namesilo,,,29/09/2026 23:36
 8cb2973c-ead1-4d3f-bb5b-5d0cf3ad9489,officers.talk,premium,75,,medium,low,8,name.com,,,
+1422e44b-276a-4383-b4b4-42caf5a79dab,honoring.talk,available,38.99,38.99,high,low,8,namesilo,,,29/09/2026 13:04
 d85ac731-2160-47ec-82c0-0323d8f04250,funnily.talk,available,41.98,46.98,medium,low,7,namecheap,,,14/09/2026 20:40
 47855dc1-639f-4338-8525-835e1ea1a0ed,falcon.talk,premium,66.02,66.02,high,medium,6,porkbun,,,28/09/2026 19:10
 3eaeacbd-d8cf-41ef-a282-a1b95378c753,obsessed.talk,available,38.99,38.99,medium,low,8,namesilo,,,21/08/2026 01:32
 98ac3a7c-8a72-4af2-b432-5d173b2f9ac6,commercials.talk,premium,131.52,131.52,medium,low,11,porkbun,,,28/09/2026 13:17
 cbd31d28-6330-49e1-ba10-4dc5513b9698,significance.talk,premium,71.4,71.4,high,low,12,namesilo,,,28/09/2026 08:20
-1af15a08-c585-4dcf-a5a7-9041f88f9412,aare.talk,available,38.99,38.99,medium,low,4,namesilo,,,16/09/2026 13:18
+1af15a08-c585-4dcf-a5a7-9041f88f9412,aare.talk,available,38.99,38.99,high,low,4,namesilo,,,16/09/2026 13:18
 42abfa85-b12a-4565-9865-6bc48205a7da,nutrify.talk,available,38.99,38.99,medium,low,7,namesilo,,,18/09/2026 07:57
 49d535c7-44fc-47d4-8d75-2b0ee6ca9fe9,obtained.talk,premium,75,,medium,low,8,name.com,,,
 59c60e8b-f39d-49b3-8c3c-a3d1aa62c6cc,guarneri.talk,available,41.98,46.98,medium,low,8,namecheap,,,19/09/2026 04:22
@@ -563,6 +599,7 @@ cbd31d28-6330-49e1-ba10-4dc5513b9698,significance.talk,premium,71.4,71.4,high,lo
 61bca2cf-df86-48c5-a9e2-4ac03958fb25,fashion.talk,premium,517.7,517.7,high,medium,7,spaceship,,,28/09/2026 16:44
 33a5d193-1ff6-4f4b-969d-2ce738774476,arcadia.talk,premium,153.6,153.6,high,medium,7,namesilo,,,20/09/2026 01:36
 bbb97f71-6457-4e1d-947b-4ae4fbdc47c4,karpov.talk,available,38.99,38.99,high,low,6,namesilo,,,19/09/2026 03:27
+60682859-a13a-4bad-be04-b417282a5190,marburg.talk,available,38.99,38.99,high,low,7,namesilo,,,29/09/2026 10:08
 dbe138ba-a6d5-4b44-8943-08198f6fb4de,bugbane.talk,available,41.98,46.98,medium,low,7,namecheap,,,18/09/2026 20:09
 cfd059cb-aa60-4801-8e04-778b9e9d6354,jury.talk,premium,302.5,302.5,high,low,4,namesilo,,,25/09/2026 08:06
 3e89d216-224f-4152-bbd8-5bf6893c3ed3,creaky.talk,available,38.99,38.99,medium,low,6,namesilo,,,06/08/2026 22:59
@@ -571,11 +608,14 @@ e7899837-6c1f-4b62-afcc-d74469c943d3,hangout.talk,available,38.99,38.99,high,low
 549f3cdf-b50b-4f0d-b072-7ed2cbb7d1ad,lantern.talk,available,31.25,31.25,high,low,7,spaceship,,,28/09/2026 14:40
 46618440-f04f-46f2-bb41-e637752f2482,dolomite.talk,available,38.99,38.99,medium,low,8,namesilo,,,23/09/2026 23:01
 80904124-7636-4369-8639-01f822fb4171,numberless.talk,available,38.99,38.99,high,low,10,namesilo,,,13/08/2026 03:42
+f95553dc-4cd3-4f72-9854-ac3a18aa2d76,earthquakes.talk,available,31.25,31.25,medium,low,11,spaceship,,,29/09/2026 23:17
 1e602bdd-4afc-4f55-99df-24d02f6e60c2,audad.talk,available,38.99,38.99,medium,low,5,namesilo,,,18/09/2026 22:16
+59425193-3f56-4b98-8d06-7618aba5ac78,mubarak.talk,available,38.99,38.99,medium,low,7,namesilo,,,29/09/2026 13:04
 57382fa4-2dda-4e4b-b818-e265fde65f42,danced.talk,available,38.99,38.99,medium,low,6,namesilo,,,27/09/2026 10:43
 c361cbbe-2747-46f0-827f-1790c3473431,rustling.talk,available,38.99,38.99,high,low,8,namesilo,,,03/09/2026 11:20
 0da0eab9-a240-49fd-b0c5-f2860469f1a9,conversely.talk,available,38.99,38.99,high,low,10,namesilo,,,14/09/2026 08:37
 b446c15f-c66c-4fe5-bf09-8222ad63a08f,unicameral.talk,available,38.99,38.99,medium,low,10,namesilo,,,12/09/2026 12:46
+6b4285eb-143c-4006-91c4-04db16773f22,nicotine.talk,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 19:49
 a64b52ef-fc12-4e4b-bf62-79af76ab0743,septet.talk,available,38.99,38.99,medium,low,6,namesilo,,,
 60c048cf-411c-4cb2-8fdb-cc31ded2e2e9,feminine.talk,available,41.98,46.98,high,low,8,namecheap,,,24/09/2026 17:35
 8eed3b6f-9e12-4daf-9221-775c969eb5d9,bitumen.talk,available,38.99,38.99,medium,low,7,namesilo,,,23/09/2026 23:13
@@ -585,9 +625,11 @@ b158f073-f3ac-4ee1-b2ed-17b568011b3c,billiards.talk,premium,153.6,153.6,high,low
 dae2ce0e-34eb-44d0-8d0d-5483c083d66b,aspirant.talk,available,38.99,38.99,medium,low,8,namesilo,,,07/08/2026 05:02
 d4f5ec98-1fc3-4a9a-bf4c-08efd13ab518,inept.talk,available,41.98,46.98,medium,low,5,namecheap,,,21/08/2026 18:53
 c4c04817-afbc-40a1-b0c6-e7b456803066,dee.talk,premium,640,640,high,low,3,namesilo,,,28/09/2026 03:28
+a19da88e-aa24-4927-a9b8-aa8b4df10769,assemblages.talk,available,41.98,46.98,medium,low,11,namecheap,,,29/09/2026 05:48
 21313283-7908-4a83-a117-6f2b645e3f7b,richelieu.talk,available,38.99,38.99,medium,low,9,namesilo,,,20/09/2026 06:31
 bde68625-e25a-49da-b962-43a83840128c,umpteenth.talk,available,38.99,38.99,medium,low,9,namesilo,,,11/09/2026 23:09
 cbee05f8-b01d-47e1-92ff-492bfadb7cb5,solvent.talk,available,38.99,38.99,high,low,7,namesilo,,,19/09/2026 16:47
+b2a61288-a12a-4307-912e-0b51a42c9120,ashford.talk,premium,132,132,medium,low,7,dynadot,,,29/09/2026 04:30
 d0b22207-ea11-44f3-93eb-44a0da2c28cb,footless.talk,available,38.99,38.99,medium,low,8,namesilo,,,18/08/2026 10:45
 79530365-3553-4cec-95d3-44bd96d2c3f2,artistry.talk,available,25,31.41,high,medium,8,porkbun,,,28/09/2026 08:07
 e24ecc2e-e11b-4b86-abf7-545847295ec8,perfective.talk,available,38.99,38.99,high,low,10,namesilo,,,08/09/2026 16:27
@@ -598,38 +640,41 @@ edcec14f-fdc4-477c-b6aa-bf82ac833540,beater.talk,available,41.98,46.98,high,low,
 9c6897a7-d849-486c-b17e-06cf10f0d5d6,flynn.talk,premium,153.6,153.6,high,low,5,namesilo,,,25/09/2026 15:37
 6e6f9181-ad10-4db0-a2b3-13a6160f800f,luckless.talk,available,38.99,38.99,medium,low,8,namesilo,,,24/08/2026 10:59
 58ce49ff-4185-41d2-a19d-749729eb91bd,librarian.talk,premium,71.4,71.4,high,low,9,namesilo,,,23/09/2026 12:54
-c02810bd-b044-4485-ac62-4ef6cfbf8a86,malamute.talk,premium,153.6,153.6,medium,low,8,namesilo,,,18/09/2026 02:06
+c02810bd-b044-4485-ac62-4ef6cfbf8a86,malamute.talk,premium,153.6,153.6,high,low,8,namesilo,,,18/09/2026 02:06
 9697e6cb-9296-4d04-99d6-72258366663b,acquiring.talk,available,38.99,38.99,high,low,9,namesilo,,,17/09/2026 02:42
 f7a95899-f2d5-4d95-b7ed-a8419747acfb,judged.talk,available,31.25,31.25,low,low,6,spaceship,,,28/09/2026 12:50
 5274a4e2-55dc-46d8-8f63-7a4818ea4125,ser.talk,premium,625,,high,low,3,name.com,,,
 3b957da1-71af-4511-8756-afcd81c2b057,pretense.talk,available,41.98,46.98,high,low,8,namecheap,,,25/09/2026 16:21
 2a3d3e52-5c42-4d66-bf1c-406f690addd1,respond.talk,premium,62.3,62.3,high,low,7,spaceship,,,28/09/2026 21:35
-427409f5-ba94-4d2c-949e-01846e00422d,alate.talk,available,38.99,38.99,medium,low,5,namesilo,,,
-dd7fb42b-67a8-485e-a400-e04b8f56c162,potato.talk,premium,71.4,71.4,high,low,6,namesilo,,,
+427409f5-ba94-4d2c-949e-01846e00422d,alate.talk,available,38.99,38.99,high,low,5,namesilo,,,
+dd7fb42b-67a8-485e-a400-e04b8f56c162,potato.talk,premium,78,78,high,medium,6,namecheap,,,30/09/2026 00:23
 47a90f27-5bde-4dc7-b711-a4f20f363f82,anklet.talk,available,38.99,38.99,high,low,6,namesilo,,,19/09/2026 09:41
 0dddea0c-5ec4-492b-8578-7a2f024db31d,badger.talk,premium,71.4,71.4,high,low,6,namesilo,,,21/09/2026 17:01
+5a66ce1c-a5e7-4532-af9d-48efca0a93a9,vibrations.talk,available,38.99,38.99,medium,low,10,namesilo,,,29/09/2026 23:57
+8f83aa82-973c-447a-b00a-8ffdcb51759a,tagore.talk,available,41.98,46.98,medium,low,6,namecheap,,,30/09/2026 02:38
 4bf6bfaf-f57f-4ec6-85e6-eba1d2fafdda,unwashed.talk,available,41.98,46.98,medium,low,8,namecheap,,,08/09/2026 21:02
 1ce7ad28-4805-4014-bfc3-da8f684c461e,incubation.talk,available,38.99,38.99,high,low,10,namesilo,,,11/08/2026 06:10
-293023c9-0d83-4092-afb1-03da050e8216,pain.talk,premium,302.5,302.5,high,low,4,namesilo,,,
+293023c9-0d83-4092-afb1-03da050e8216,pain.talk,premium,258.95,258.95,high,low,4,spaceship,,,29/09/2026 23:26
 212e2b84-47de-4e24-8d6f-08e9c78e2584,acoustics.talk,available,38.99,38.99,high,low,9,namesilo,,,17/09/2026 02:36
 7bd9423c-0db9-44bd-967e-cee80a605e7b,watersheds.talk,available,38.99,38.99,low,low,10,namesilo,,,28/09/2026 23:41
 a4c44993-1b9b-4de6-972c-2a51517239bb,bendable.talk,available,38.99,38.99,medium,low,8,namesilo,,,09/08/2026 14:07
 8bc3a7f5-ef58-4d20-8c46-3a5df1083b37,venous.talk,available,38.99,38.99,medium,low,6,namesilo,,,13/09/2026 02:10
 d764e4a5-065c-4182-8c55-fb04a94102ce,finback.talk,available,59.99,59.99,medium,low,7,name.com,,,21/09/2026 20:44
+252b4718-3e99-4f9a-a9b6-240b7bd7f801,plains.talk,premium,62.3,62.3,high,low,6,spaceship,,,29/09/2026 09:36
 c91cc52e-841e-4d60-a1b5-29d8a02c1338,alloy.talk,premium,153.6,153.6,high,low,5,namesilo,,,17/09/2026 09:02
 a0e6bcb7-6152-4c3e-aaad-a8af8fa097c7,merrily.talk,available,38.99,38.99,high,low,7,namesilo,,,14/09/2026 00:25
 43c29b94-b0f9-401e-a415-8b517d20f28c,shattering.talk,available,38.99,38.99,high,medium,10,namesilo,,,10/09/2026 06:06
 902a5975-9d1d-489f-b221-dfd1a756cb1e,elise.talk,premium,153.6,153.6,medium,low,5,namesilo,,,28/09/2026 21:52
 e716640b-8245-4f05-9ca5-d260b35e90bf,hibernal.talk,available,38.99,38.99,medium,low,8,namesilo,,,11/08/2026 06:38
 b063f9c4-f492-448b-9c79-ba546d2d614f,triumphant.talk,available,41.98,46.98,high,low,10,namecheap,,,17/08/2026 19:56
-a8178aa9-0e43-4d00-b12b-caca27500d04,cams.talk,premium,1107,1107,medium,low,4,namesilo,,,20/09/2026 11:30
+a8178aa9-0e43-4d00-b12b-caca27500d04,cams.talk,premium,1107,1107,high,low,4,namesilo,,,20/09/2026 11:30
 4115a447-dfdc-4125-9e3e-45a31f396927,ccc.talk,premium,625,625,high,medium,3,name.com,,,
-b03f44b7-5b57-4b90-b19c-c9462305a88a,annex.talk,premium,124.4,124.4,medium,low,5,spaceship,,,28/09/2026 21:27
+b03f44b7-5b57-4b90-b19c-c9462305a88a,annex.talk,premium,124.4,124.4,high,low,5,spaceship,,,28/09/2026 21:27
 f0e60466-e8bc-4e3d-acdc-e4ccbefd1012,inherited.talk,premium,71.4,71.4,high,low,9,namesilo,,,18/08/2026 21:33
 ad51ea60-ace4-4428-a251-ef87f45126f8,attenuator.talk,available,38.99,38.99,medium,low,10,namesilo,,,21/09/2026 01:34
 c7405451-ab77-4442-95c6-9e2ce96737d5,auspicious.talk,available,38.99,38.99,high,low,10,namesilo,,,22/09/2026 13:12
 e4305952-1a4c-4f95-b1a3-7cad0759acc7,paperlike.talk,available,38.99,38.99,medium,low,9,namesilo,,,12/08/2026 02:45
-4d214a65-2c08-4cfc-8031-6eb0d1febdee,chairwoman.talk,premium,71.4,71.4,high,low,10,namesilo,,,
+4d214a65-2c08-4cfc-8031-6eb0d1febdee,chairwoman.talk,premium,71.4,71.4,high,low,10,namesilo,,,29/09/2026 07:58
 aeab17b7-1d60-4a4b-b810-3427e86cf04b,robber.talk,available,32.32,32.32,medium,low,6,dynadot,,,28/09/2026 10:50
 99c926f1-4d38-47ed-b13a-13574c4de937,acres.talk,premium,153.6,153.6,high,low,5,namesilo,,,17/09/2026 02:56
 d66cb650-fd59-4ec7-b9a8-9fab8b7a189e,asch.talk,available,38.99,38.99,high,low,4,namesilo,,,20/09/2026 13:15
@@ -639,23 +684,27 @@ e9c79197-4398-43d6-a8e7-7fefc7e7cdd0,montreal.talk,premium,75,,high,low,8,name.c
 805926f7-f618-4ecd-b691-37e04fd6172d,shack.talk,available,38.99,38.99,high,low,5,namesilo,,,24/09/2026 23:26
 3982b97c-8c67-4e38-a619-09968b460c23,milanese.talk,available,38.99,38.99,medium,low,8,namesilo,,,24/08/2026 22:53
 ffbe0daf-cf85-4d50-b7ac-5f015e462c43,allegretto.talk,available,38.99,38.99,high,low,10,namesilo,,,
+6124ed14-f58e-442e-909a-86fd7124f4ff,flashlight.talk,premium,132,132,high,low,10,dynadot,,,29/09/2026 06:57
 3eee6e52-1fec-4922-b3ff-d1813116ac5b,beldam.talk,available,38.99,38.99,medium,low,6,namesilo,,,23/09/2026 04:45
 3ff7e313-18cf-45c9-a025-5d92593f2922,adornment.talk,available,38.99,38.99,high,low,9,namesilo,,,17/09/2026 09:46
 fb0ebc91-9eb2-4c5f-82b6-b5d78f928229,vicky.talk,premium,153.6,153.6,medium,low,5,namesilo,,,29/09/2026 03:57
-0b4c21e0-c6f5-4252-998a-bf8df6aae6c9,anorak.talk,available,38.99,38.99,medium,low,6,namesilo,,,19/09/2026 11:41
+0b4c21e0-c6f5-4252-998a-bf8df6aae6c9,anorak.talk,available,38.99,38.99,high,low,6,namesilo,,,19/09/2026 11:41
 6032c6be-8e87-4a5e-8f07-8758585e6ed0,streetcleaner.talk,available,46.98,,low,low,14,namecheap,,,
 1eff83e7-37d1-4f2a-98c4-9309c868ef46,antipodes.talk,available,38.99,38.99,medium,low,9,namesilo,,,19/09/2026 14:59
 e6f02cde-a531-436a-a643-ebfd1bd60e4c,senses.talk,available,38.99,38.99,high,low,6,namesilo,,,
-6f04b7a6-2833-485d-8100-b27d2e18de91,gao.talk,premium,640,640,medium,low,3,namesilo,,,25/09/2026 06:16
+6f04b7a6-2833-485d-8100-b27d2e18de91,gao.talk,premium,640,640,high,low,3,namesilo,,,25/09/2026 06:16
 46c92fc6-c95b-4842-9d9b-ffd6fdee149c,resettled.talk,available,38.99,38.99,high,low,9,namesilo,,,09/09/2026 13:41
 d8503e0f-97a9-4a98-81be-cffddb9ada45,simone.talk,premium,153.6,153.6,high,low,6,namesilo,,,27/09/2026 07:19
 2285526e-1960-4a08-82b6-f9189678686b,rumanian.talk,available,41.98,46.98,high,medium,8,namecheap,,,09/09/2026 18:28
 979da8fd-9dec-49a5-9efc-b7e17ed98730,screwy.talk,available,38.99,38.99,medium,low,6,namesilo,,,10/09/2026 00:08
 26a2cdff-8255-4251-9c06-ee3a79898d2f,clarkson.talk,available,41.98,46.98,medium,low,8,namecheap,,,27/09/2026 01:50
+a9c1e767-f2e0-4e41-8c52-5a2a6a03aa5c,downs.talk,available,31.25,31.25,medium,low,5,spaceship,,,29/09/2026 09:11
 3570b8cd-27dd-431b-a5b4-16fe53dff6bf,punk.talk,premium,302.5,302.5,high,low,4,namesilo,,,23/09/2026 11:14
+d01ee622-5929-4a5b-baa9-eb5610484e2e,napoli.talk,premium,124.4,124.4,medium,low,6,spaceship,,,29/09/2026 07:39
 ec3c8b79-0376-485a-a54b-2969a259c0dc,oversized.talk,available,38.99,38.99,high,low,9,namesilo,,,04/09/2026 19:45
 725924a7-81c3-4d49-af64-1e186b8e728b,khartoum.talk,premium,153.6,153.6,medium,low,8,namesilo,,,24/09/2026 12:25
 7e85123d-2e95-475b-9b5d-71acb0a01fef,glassed.talk,available,38.99,38.99,medium,low,7,namesilo,,,20/08/2026 14:07
+8792cd3f-7f00-44c3-90d5-f3313e800864,ideology.talk,available,25,31.41,high,low,8,porkbun,,,30/09/2026 01:57
 8d3abb69-401b-426b-a7bf-6923a895a0d6,did.talk,premium,625,,high,low,3,name.com,,,
 d6b069ce-6455-4488-a289-b2795bf94c28,justin.talk,premium,71.4,71.4,high,medium,7,namesilo,,,25/09/2026 16:02
 d96fc571-bab2-419a-bfbc-e95844121c09,andrei.talk,premium,132,132,high,low,6,dynadot,,,28/09/2026 04:07
@@ -663,23 +712,26 @@ c5e4264e-4bf9-4a45-a033-a4f1fd848035,valparaiso.talk,available,25,31.41,medium,l
 f824fbb1-e3f2-4ba2-b3b0-68d0af8a0af1,dove.talk,premium,71.4,71.4,high,low,4,namesilo,,,10/09/2026 17:16
 2a0c6356-b6ba-4ebe-bf14-8a213a1ee2a5,iceberg.talk,premium,71.4,71.4,high,low,7,namesilo,,,23/09/2026 09:15
 c87ff0c6-eca3-4ce0-88f1-831a05043358,deane.talk,available,41.98,46.98,medium,low,5,namecheap,,,28/09/2026 12:11
-6bc08ff3-9289-4161-9424-4fb4db1f05ec,repeal.talk,available,59.99,59.99,medium,low,6,name.com,,,16/09/2026 17:15
+6bc08ff3-9289-4161-9424-4fb4db1f05ec,repeal.talk,available,59.99,59.99,high,low,6,name.com,,,16/09/2026 17:15
 6e9691a6-0581-4520-8efa-517727aa0583,elephants.talk,available,38.99,38.99,high,low,9,namesilo,,,18/09/2026 04:24
 824931c4-9ac0-434e-9211-bb4919459eeb,calculators.talk,premium,75,75,medium,low,11,name.com,,,18/09/2026 18:59
+c4c87f7e-9a6c-4c38-95d4-3322fcdf205f,finlay.talk,available,41.98,46.98,medium,low,6,namecheap,,,29/09/2026 15:27
 acbceb24-2503-4f4c-9c25-192a3ca9dabe,shockingly.talk,available,38.99,38.99,medium,low,10,namesilo,,,16/09/2026 01:31
 756f78da-65aa-4035-95e0-0d389af332c9,harriman.talk,available,38.99,38.99,medium,low,8,namesilo,,,21/09/2026 09:11
 36a793a2-d7df-4f81-a2c6-c2528f341d3a,cornell.talk,premium,71.4,71.4,medium,low,7,namesilo,,,29/09/2026 00:29
 331cec49-64e0-4f15-a7e8-0761993192fc,auspicate.talk,available,41.98,46.98,medium,low,9,namecheap,,,21/09/2026 03:29
 e3147807-7e16-422c-9a46-27cd2a778e53,appall.talk,available,38.99,38.99,medium,low,6,namesilo,,,18/09/2026 01:55
 af806b79-93bd-49a7-9c92-18254e61d698,snuffly.talk,available,38.99,38.99,high,medium,7,namesilo,,,10/09/2026 12:37
+28902033-c98c-44d6-82e0-d3487170c783,migraine.talk,available,32.32,32.32,high,low,8,dynadot,,,30/09/2026 01:52
+3d1d5b28-2701-4756-9341-8178c3597a57,greenway.talk,available,31.25,31.25,medium,low,8,spaceship,,,29/09/2026 10:16
 8ce87a68-a66e-4a00-889e-a4246c73046a,ardent.talk,available,38.99,38.99,high,low,6,namesilo,,,06/08/2026 16:11
 519079d5-f737-4a0f-bd30-755ec77d9ada,cluster.talk,premium,71.4,71.4,high,low,7,namesilo,,,24/09/2026 11:12
 52dc20b3-9869-47c5-9ed4-1da46d7516d6,calando.talk,available,38.99,38.99,medium,low,7,namesilo,,,11/08/2026 13:34
 d623d89b-3613-42a4-86c6-d63a02f19ae8,fluency.talk,available,38.99,38.99,high,low,7,namesilo,,,20/09/2026 11:19
 dc6a3723-92ea-4a93-b3e8-c4e5a12ec10b,bowen.talk,premium,156,156,high,low,5,namecheap,,,25/09/2026 12:42
-3c4c3a7d-3a29-478b-a134-3f9ef0ed9f2e,transmit.talk,premium,75,,high,low,8,name.com,,,
+3c4c3a7d-3a29-478b-a134-3f9ef0ed9f2e,transmit.talk,premium,62.3,62.3,high,low,8,spaceship,,,29/09/2026 04:29
 4f9bdba7-0ccc-4e87-9da1-f82e1be584f6,civilised.talk,available,38.99,38.99,high,low,9,namesilo,,,12/08/2026 09:08
-4d461b31-30ba-4a6e-b558-5e38faa5df83,warranty.talk,premium,75,,high,low,8,name.com,,,
+4d461b31-30ba-4a6e-b558-5e38faa5df83,warranty.talk,premium,62.3,62.3,high,low,8,spaceship,,,29/09/2026 21:39
 373ae79a-b2a2-4b2b-a319-9b4d02bd6837,upwards.talk,available,38.99,38.99,medium,low,7,namesilo,,,28/09/2026 09:52
 b8b2dcff-8650-43d0-80d8-32b5af7acc14,studious.talk,available,41.98,46.98,high,low,8,namecheap,,,10/08/2026 19:10
 7a2701c8-a6d8-4c5a-a994-e916e1620aa4,untroubled.talk,available,38.99,38.99,high,low,10,namesilo,,,10/09/2026 01:30
@@ -691,24 +743,27 @@ fda649da-fe3a-4315-9cb7-34af2ec445ee,knotted.talk,available,38.99,38.99,medium,l
 1bab994a-9772-4a02-bd7b-58d15fd2edf7,stomach.talk,premium,71.4,71.4,high,low,7,namesilo,,,16/09/2026 14:47
 e7849bfa-d940-4aa8-8608-e094046e1b4b,ambit.talk,available,41.98,46.98,high,low,5,namecheap,,,18/09/2026 16:51
 6d52099c-b9f7-4535-9d89-929dff706c10,amethyst.talk,available,38.99,38.99,high,low,8,namesilo,,,22/09/2026 04:15
-4edcf209-83a2-49be-a589-7f0064fb5942,curd.talk,available,41.98,46.98,medium,low,4,namecheap,,,24/09/2026 20:24
+4edcf209-83a2-49be-a589-7f0064fb5942,curd.talk,available,41.98,46.98,high,low,4,namecheap,,,24/09/2026 20:24
 27c8c240-9b20-45d1-a802-d07900d336d8,cultural.talk,premium,71.4,71.4,high,low,8,namesilo,,,13/08/2026 10:15
 6c392979-8f2a-4cb4-8837-dbfb62c4e92e,debatable.talk,available,59.99,59.99,high,low,9,name.com,,,13/08/2026 20:12
+840f8754-afea-4d2e-b73d-8d87f38784e7,drafted.talk,available,38.99,38.99,medium,low,7,namesilo,,,29/09/2026 04:48
 b604f91a-2a57-4591-a6de-730e153059a8,antwerpen.talk,available,38.99,38.99,medium,low,9,namesilo,,,19/09/2026 15:48
 e9d7d113-b93c-41af-a59d-444f7c0b631b,birdcall.talk,available,41.98,46.98,high,low,8,namecheap,,,23/09/2026 20:35
+d42847bc-7c3a-45c1-98bc-2ff4ffa44e71,costing.talk,available,31.25,31.25,high,low,7,spaceship,,,29/09/2026 18:29
 6115b9df-bd99-40d5-bba3-825b64b7be98,ieee.talk,premium,302.5,302.5,high,medium,4,namesilo,,,25/09/2026 13:18
 248e87d7-e08e-44a9-8e6a-f8738ba185d3,lead.talk,premium,302.5,302.5,high,medium,4,namesilo,,,25/09/2026 13:15
 db6c8e6d-1d7c-49d4-87c6-b4a021024ab1,tattle.talk,available,38.99,38.99,high,low,6,namesilo,,,23/09/2026 23:36
 10869706-20c9-4de0-95bb-ea5ec5544922,terrifying.talk,available,38.99,38.99,medium,low,10,namesilo,,,28/09/2026 02:19
 7b628732-014d-4485-bf02-d33e853e276d,asarum.talk,available,38.99,38.99,medium,low,6,namesilo,,,20/09/2026 12:52
 e3c68aa0-11e1-4042-8329-fe2dccc71f6b,binoculars.talk,available,38.99,38.99,high,low,10,namesilo,,,23/09/2026 17:37
-25fecf51-eec0-44b9-8601-df88aa6d4078,cultivator.talk,available,59.99,59.99,medium,low,10,name.com,,,17/09/2026 19:20
+25fecf51-eec0-44b9-8601-df88aa6d4078,cultivator.talk,available,59.99,59.99,high,low,10,name.com,,,17/09/2026 19:20
 14593b09-a884-44d2-a63f-db7ecc90f3eb,explains.talk,premium,78,78,medium,low,8,namecheap,,,19/09/2026 21:05
 75c31df2-dbd3-4884-8a20-209f9d6591c5,aloe.talk,available,38.99,38.99,high,low,4,namesilo,,,18/09/2026 12:59
 c5a70351-8727-4de3-b45d-234792b6eaca,agilely.talk,available,41.98,46.98,medium,low,7,namecheap,,,13/09/2026 18:16
-a3b78f5b-e8ba-44e6-b959-ded03319b5e8,possessive.talk,available,38.99,38.99,medium,low,10,namesilo,,,18/08/2026 21:44
+a3b78f5b-e8ba-44e6-b959-ded03319b5e8,possessive.talk,available,38.99,38.99,high,low,10,namesilo,,,18/08/2026 21:44
 90421dc2-b9f1-4416-a168-7e7f3692d0bd,chronic.talk,premium,71.4,71.4,high,low,7,namesilo,,,12/08/2026 07:24
 903689c1-c74b-456c-a3dd-5a8935390de0,tipsy.talk,available,38.99,38.99,high,low,5,namesilo,,,11/09/2026 15:38
+b1f56d68-fe77-47b5-950b-a28527e0d305,dale.talk,premium,258.95,258.95,high,low,4,spaceship,,,29/09/2026 12:00
 8b0d16a1-897a-4ca2-98f9-cafa8cb61e56,paprika.talk,available,38.99,38.99,high,low,7,namesilo,,,23/09/2026 05:39
 716ecbb0-df16-4b8c-8430-77ce63493452,amplifiers.talk,available,38.99,38.99,medium,low,10,namesilo,,,17/09/2026 07:12
 10a06c11-476d-44dd-9b33-470de327a3d2,adair.talk,available,31.25,31.25,medium,low,5,spaceship,,,28/09/2026 16:27
@@ -718,18 +773,19 @@ a3b78f5b-e8ba-44e6-b959-ded03319b5e8,possessive.talk,available,38.99,38.99,mediu
 9721cb0c-3013-412c-a662-bce53cd2dba7,observe.talk,premium,71.4,71.4,high,low,7,namesilo,,,25/09/2026 23:53
 9088ceda-5e2a-4c20-b4de-ef484c07ee48,synergetic.talk,available,38.99,38.99,high,low,10,namesilo,,,11/09/2026 06:25
 35c7277d-f54f-475b-beb1-297a152d3c0b,pall.talk,available,38.99,38.99,medium,low,4,namesilo,,,22/08/2026 11:56
+0191e7e9-a7d3-4369-bbf9-3bd2688b94b5,fim.talk,premium,550,550,medium,low,3,dynadot,,,29/09/2026 21:32
 6e244da5-0a80-486c-b2e7-6445ed073379,tokugawa.talk,available,25,31.41,low,low,8,porkbun,,,28/09/2026 09:08
-07b7b846-3d27-45b7-9db0-e42928b91091,luncheon.talk,available,38.99,38.99,high,low,8,namesilo,,,
+07b7b846-3d27-45b7-9db0-e42928b91091,luncheon.talk,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 13:43
 64d1257c-6c90-423b-9e29-359066ea9b5b,complex.talk,premium,71.4,71.4,high,low,7,namesilo,,,23/09/2026 17:35
 fcc3cc72-db1c-4141-be00-e96865d1765e,ancylus.talk,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 03:54
-bbba7bbf-a839-4a2a-b95c-98cb69f5f63d,fist.talk,premium,625,,high,low,4,name.com,,,
+bbba7bbf-a839-4a2a-b95c-98cb69f5f63d,fist.talk,premium,517.7,517.7,high,low,4,spaceship,,,29/09/2026 09:58
 a87034ce-1323-405c-b51f-c10e0d930a3c,bollock.talk,available,38.99,38.99,medium,low,7,namesilo,,,21/09/2026 23:08
 17cbb6c4-5eca-4f21-bbcb-f11cd68cb557,belief.talk,premium,71.4,71.4,high,low,6,namesilo,,,23/09/2026 05:12
 5e4c8dbb-1dac-41e8-94eb-2e879d6c938d,conserved.talk,available,38.99,38.99,high,low,9,namesilo,,,12/08/2026 22:38
 61d09a6f-5bc5-4bc4-b47c-b97f2c07645a,enjoy.talk,premium,150,,high,medium,5,name.com,,,
 f24e8664-16e5-477b-a888-2b6d797dd0e8,quitting.talk,available,38.99,38.99,medium,low,8,namesilo,,,17/09/2026 01:45
 6c39030f-5ee0-41f7-b81c-f5f559e40719,congenital.talk,available,41.98,46.98,high,low,10,namecheap,,,12/08/2026 21:40
-63ce79ec-8359-4313-8603-84307bdd673e,slacking.talk,available,46.98,,medium,low,8,namecheap,,,
+63ce79ec-8359-4313-8603-84307bdd673e,slacking.talk,available,31.25,31.25,medium,low,8,spaceship,,,29/09/2026 20:57
 ab610c1e-45e1-45b4-bacb-c0e6e07f6cad,colourless.talk,available,41.98,46.98,medium,low,10,namecheap,,,12/08/2026 17:55
 d4947ff2-bcb5-4336-a857-dbb36bac425c,clarence.talk,premium,153.6,153.6,high,low,8,namesilo,,,27/09/2026 12:32
 77d201ba-8894-49f5-a9c0-b6a80a68b56a,bought.talk,premium,71.4,71.4,high,low,6,namesilo,,,
@@ -738,14 +794,19 @@ b32194ab-14fb-4169-9e3f-53718b27c23e,blacken.talk,available,38.99,38.99,medium,l
 e244a32b-ef9f-49aa-ae2d-d5d3ad80f0e2,grew.talk,premium,302.5,302.5,high,low,4,namesilo,,,
 bab7b194-a844-4992-a453-a57d15b27192,sorrowful.talk,available,38.99,38.99,medium,low,9,namesilo,,,10/09/2026 14:37
 96b1b795-a4bd-4234-b886-2f574e737fa7,unsalted.talk,available,38.99,38.99,medium,low,8,namesilo,,,12/09/2026 18:45
-f9f4b70f-77fa-407a-8b19-42abc4056355,properly.talk,premium,75,75,medium,low,8,name.com,,,13/08/2026 21:12
-f4c8e34b-12ba-43b6-b961-fb6e4f822628,flu.talk,premium,625,,high,low,3,name.com,,,
+f9f4b70f-77fa-407a-8b19-42abc4056355,properly.talk,premium,75,75,high,low,8,name.com,,,13/08/2026 21:12
+f4c8e34b-12ba-43b6-b961-fb6e4f822628,flu.talk,premium,517.7,517.7,high,low,3,spaceship,,,29/09/2026 19:35
 ca67ac65-28af-4194-ab73-a4afd7c0a127,validly.talk,available,41.98,46.98,medium,low,7,namecheap,,,16/09/2026 10:42
 fb9a7d9f-f7ab-41a6-9ffc-bb4eda6e389f,olden.talk,available,38.99,38.99,medium,low,5,namesilo,,,04/09/2026 02:02
 95b8789b-e3bf-440d-ae6e-e0a3e06c1661,creditably.talk,available,38.99,38.99,medium,low,10,namesilo,,,14/09/2026 09:30
+3d81dd5f-f692-4d60-94c1-afc9e3200f4b,drainage.talk,premium,66.02,66.02,high,low,8,porkbun,,,29/09/2026 18:40
+c0d27195-9e43-42f7-af1d-fb93e1f1f676,kindergarten.talk,available,41.98,46.98,high,low,12,namecheap,,,29/09/2026 05:20
 d71ec236-5c7f-40ad-a793-eb6c3ca7f64d,erosion.talk,available,38.99,38.99,high,low,7,namesilo,,,13/09/2026 09:06
 b441d349-16aa-4f6d-8901-d52bd10ae028,painter.talk,premium,124.4,124.4,high,low,7,spaceship,,,27/09/2026 12:44
+d1cd9559-95ad-42b8-8cfc-42078c5d8c78,aron.talk,premium,124.4,124.4,high,low,4,spaceship,,,29/09/2026 15:32
+e1b04c95-82e6-46cb-b2a2-897b9014f139,blog.talk,premium,325,325,high,medium,4,namecheap,,,29/09/2026 17:59
 2d4df541-d554-4bf3-8eec-f317670cd603,vapourish.talk,available,38.99,38.99,medium,low,9,namesilo,,,13/09/2026 01:13
+f49e9fe1-00b7-4bef-8bce-7a26c98001c1,osha.talk,available,31.25,31.25,high,low,4,spaceship,,,29/09/2026 13:36
 435c663f-264b-4c8f-94f0-395b17bd3bb9,sunstone.talk,available,38.99,38.99,high,low,8,namesilo,,,21/09/2026 09:07
 bf7de839-150e-4ea3-bd0c-277f92722e6e,inhale.talk,available,38.99,38.99,high,low,6,namesilo,,,
 cf6586b3-192d-4a5d-80df-c6776822526d,laval.talk,premium,131.52,131.52,high,low,5,porkbun,,,28/09/2026 05:09
@@ -755,23 +816,29 @@ c5e21b4e-40e0-4bbc-a4f7-bb197ac6415c,hashtag.talk,premium,150,,high,low,7,name.c
 367bfd05-78da-4d8b-bf00-19e9f00ba3f9,tame.talk,available,38.99,38.99,high,low,4,namesilo,,,11/09/2026 07:40
 075c1640-bab6-493f-9d5e-d2ba2565d79c,techy.talk,available,38.99,38.99,medium,low,5,namesilo,,,22/08/2026 10:32
 0a4f4a3c-390f-4f47-856a-796c325512f9,poolside.talk,available,38.99,38.99,high,low,8,namesilo,,,
-7e467ae0-dc55-4949-a0bf-92024f30882d,detest.talk,available,38.99,38.99,medium,low,6,namesilo,,,
+7e467ae0-dc55-4949-a0bf-92024f30882d,detest.talk,available,31.25,31.25,medium,low,6,spaceship,,,29/09/2026 22:18
+9e2338f9-a5e4-43d6-b5bc-7b8f0fa9c2f2,silvia.talk,premium,124.4,124.4,medium,low,6,spaceship,,,29/09/2026 12:28
 a7b1ddbb-0f4d-430a-ac18-1b27d27b455f,seductive.talk,premium,153.6,153.6,high,low,9,namesilo,,,10/09/2026 01:39
 86b3a255-eeba-43fc-b517-91de0f5ce915,startup.talk,premium,275,275,high,medium,7,dynadot,,,28/09/2026 04:08
 bc84fbab-fa94-4e6a-9551-c44543b41f74,pleasantly.talk,available,41.98,46.98,high,low,10,namecheap,,,13/09/2026 18:20
 79f2131a-6015-4458-8484-f0efbdf370a2,spangly.talk,available,41.98,46.98,medium,low,7,namecheap,,,18/08/2026 21:20
 8302b6e4-6110-40bc-8f2b-61caf7c9a132,sensational.talk,available,38.99,38.99,high,low,11,namesilo,,,
-d7bcb279-277c-47f2-8797-5be6c0f2cd00,stink.talk,available,38.99,38.99,high,low,5,namesilo,,,
+d7bcb279-277c-47f2-8797-5be6c0f2cd00,stink.talk,available,31.25,31.25,high,low,5,spaceship,,,29/09/2026 19:15
 7450a9e3-1196-45ab-9757-bf6660df53b7,raptor.talk,available,41.98,46.98,high,low,6,namecheap,,,23/09/2026 20:17
+4e52e293-1fed-4c5f-8245-09a22ca7bfab,cranberry.talk,available,38.99,38.99,high,low,9,namesilo,,,30/09/2026 01:08
 3886adac-63e8-4d1f-85b4-5e3dc7c3cec3,prodromic.talk,available,38.99,38.99,medium,low,9,namesilo,,,09/09/2026 02:46
 408be0c2-b735-4ab1-8bd0-6981015aee65,diabolic.talk,available,38.99,38.99,medium,low,8,namesilo,,,14/08/2026 01:28
+fbb8b52a-42d6-4552-b161-5bee15f97c5e,quarry.talk,available,41.98,46.98,high,low,6,namecheap,,,29/09/2026 12:13
 2088ff27-f5ac-4c08-acca-cb3d1c6c4849,mop.talk,premium,625,,high,low,3,name.com,,,
+fa3383ae-6d43-47bf-976b-19f3779300c5,festivities.talk,available,31.25,31.25,high,low,11,spaceship,,,29/09/2026 22:56
 af36cb22-dbaa-4658-bfee-907464e13bc4,weedless.talk,available,38.99,38.99,medium,low,8,namesilo,,,13/09/2026 10:00
 b917ad98-e059-4fb4-a3dd-c5b5affcf27b,sip.talk,premium,625,,high,low,3,name.com,,,
 41e5f190-bf0e-455d-93a4-010f4a3ed769,boots.talk,premium,150,,high,low,5,name.com,,,
-c90b1b83-2840-44ad-9965-954d3aff9536,questioning.talk,available,38.99,38.99,medium,low,11,namesilo,,,27/09/2026 09:01
+c90b1b83-2840-44ad-9965-954d3aff9536,questioning.talk,available,38.99,38.99,high,low,11,namesilo,,,27/09/2026 09:01
 0c795cd1-f348-4c15-a912-93bdcbe4f7e2,ebay.talk,premium,302.5,302.5,high,high,4,namesilo,,,
 216950f2-f2a0-4269-baff-29d0c00a77b5,anatidae.talk,available,38.99,38.99,medium,low,8,namesilo,,,19/09/2026 03:26
+7fba40c1-8a34-44a4-a752-87e8ba332171,tulsa.talk,premium,124.4,124.4,high,low,5,spaceship,,,29/09/2026 08:15
+cd41d6f3-db4b-4d1f-adcc-f17d61606eec,shankar.talk,premium,156,156,medium,low,7,namecheap,,,29/09/2026 13:44
 08aa6a9f-8b55-4685-88ea-1131df189191,albanian.talk,available,38.99,38.99,high,low,8,namesilo,,,
 e98b25de-4b21-436b-9766-9b20981ede5a,stolid.talk,available,38.99,38.99,medium,low,6,namesilo,,,21/08/2026 21:51
 0ea56175-431b-4de9-918f-b7b4783ab5a1,retirement.talk,premium,71.4,71.4,high,low,10,namesilo,,,
@@ -784,6 +851,8 @@ bb2da694-f0e6-4657-a025-cf357dcdd225,freaking.talk,available,38.99,38.99,medium,
 c4a4a2fe-be18-4cb7-9bc9-8b279c0ebbac,myotic.talk,available,38.99,38.99,medium,low,6,namesilo,,,25/08/2026 01:02
 043afbec-3b7a-4a72-9559-0f3bea381982,testily.talk,available,38.99,38.99,medium,low,7,namesilo,,,15/09/2026 09:30
 92f2a1d2-972b-4a4d-939f-80802828a8e2,skeletal.talk,available,41.98,46.98,high,low,8,namecheap,,,10/08/2026 19:00
+fc2ef8e5-e061-4c08-bb09-6c8cf99bd3b9,markers.talk,premium,78,78,medium,low,7,namecheap,,,29/09/2026 06:04
+5fa53ef1-1b3e-41b8-b306-3c4391ea544a,sparta.talk,available,41.98,46.98,high,low,6,namecheap,,,29/09/2026 08:05
 83a2126b-62ef-4fe3-bd96-ebd63dd8dc83,gypsy.talk,available,38.99,38.99,high,low,5,namesilo,,,10/08/2026 17:21
 25aa5899-73cb-4691-aa4c-513aff48bd28,berserk.talk,available,38.99,38.99,medium,low,7,namesilo,,,
 e355e2ac-35c4-4fb4-b072-8fe24440ecb2,oakland.talk,premium,71.4,71.4,high,low,7,namesilo,,,
@@ -795,9 +864,11 @@ a8de80b1-cd3f-42e7-9199-e6ce82b89a05,eileen.talk,premium,153.6,153.6,medium,low,
 255aa454-d730-4900-aded-1d5cf5169f1f,ayatollah.talk,available,38.99,38.99,high,low,9,namesilo,,,21/09/2026 10:36
 b8d101a7-6148-4aa3-b04c-95fa170f2ca7,dominic.talk,premium,156,156,high,low,7,namecheap,,,27/09/2026 03:45
 e9c6efc1-01d1-4813-8247-bb3772954f70,deepest.talk,available,46.98,,medium,low,7,namecheap,,,
+241c854f-6432-433f-826e-2d14f0c49969,lui.talk,premium,640,640,high,low,3,namesilo,,,29/09/2026 15:19
 2989a510-8493-4f1f-bd4a-604e9565bfd2,captured.talk,premium,71.4,71.4,medium,low,8,namesilo,,,27/09/2026 02:07
+1d693369-0126-429e-a84e-2d6e495bc76a,nia.talk,premium,517.7,517.7,high,low,3,spaceship,,,29/09/2026 20:55
 cf17bfbc-2b05-4ffc-81bb-a731158192ac,postdoc.talk,available,38.99,38.99,high,low,7,namesilo,,,09/09/2026 00:19
-786f37c0-93d7-4858-a325-9df16d5fe949,footballers.talk,available,59.99,59.99,medium,low,11,name.com,,,20/09/2026 13:07
+786f37c0-93d7-4858-a325-9df16d5fe949,footballers.talk,available,59.99,59.99,high,low,11,name.com,,,20/09/2026 13:07
 3b87722c-b673-49b0-b3e5-b1b55992980e,asymmetric.talk,available,38.99,38.99,medium,low,10,namesilo,,,07/08/2026 10:25
 bcc982ed-3987-4c2a-af3b-d84335021071,baum.talk,available,41.98,46.98,high,low,4,namecheap,,,22/09/2026 16:38
 0ca3d62e-575c-4e86-8cdf-0a842f169aaa,commander.talk,premium,71.4,71.4,high,low,9,namesilo,,,17/09/2026 22:14
@@ -812,27 +883,32 @@ b20e956c-3202-4ca4-9cce-04bfc6c3ab07,opposition.talk,premium,71.4,71.4,high,low,
 ad5860c1-b4fa-45ba-a610-4fd9f3a85a7b,tubal.talk,available,41.98,46.98,medium,low,5,namecheap,,,11/09/2026 20:53
 dd26634e-2f2c-4257-8300-69e12a7e71b0,archaic.talk,available,38.99,38.99,high,low,7,namesilo,,,
 88503c28-e008-4cf6-bcc0-32f8aacb0ab8,awn.talk,premium,640,640,high,low,3,namesilo,,,21/09/2026 10:11
-34ef6649-8abe-4bc3-8ac7-24add6d8a06e,unplug.talk,available,38.99,38.99,high,low,6,namesilo,,,
+34ef6649-8abe-4bc3-8ac7-24add6d8a06e,unplug.talk,available,32.32,32.32,high,low,6,dynadot,,,29/09/2026 15:31
 b86ee8f0-025e-4590-928b-894df4d66231,romanian.talk,available,41.98,46.98,high,medium,8,namecheap,,,09/09/2026 18:27
 c6b083ba-97dd-4a66-af5d-951cc04ff2f6,fatso.talk,available,38.99,38.99,medium,low,5,namesilo,,,17/08/2026 23:54
 ef270b57-58ca-4a2b-9221-77c856887944,vagus.talk,available,38.99,38.99,medium,low,5,namesilo,,,08/09/2026 22:09
+c2eabea8-0d0b-4f65-a53e-27e8155dc288,astonishing.talk,available,41.98,46.98,high,low,11,namecheap,,,29/09/2026 21:10
 5923bed4-5a1d-450d-9942-5ad33aebf28f,lukewarm.talk,premium,71.4,71.4,medium,low,8,namesilo,,,20/08/2026 22:43
 66f68489-2f04-405f-b944-ad9bc2a4974c,coloured.talk,available,41.98,46.98,high,low,8,namecheap,,,22/09/2026 20:29
-06907ab7-01f3-467d-b70d-9b9003f02895,borrowing.talk,available,38.99,38.99,medium,low,9,namesilo,,,28/09/2026 09:11
+06907ab7-01f3-467d-b70d-9b9003f02895,borrowing.talk,available,38.99,38.99,high,low,9,namesilo,,,28/09/2026 09:11
 85561e5a-941e-4f4c-8457-73895b50f127,helpfully.talk,available,38.99,38.99,high,low,9,namesilo,,,15/09/2026 00:07
 d6ec22fe-7e29-49c9-961f-d6bca22697f9,ephemeral.talk,available,38.99,38.99,high,low,9,namesilo,,,17/08/2026 10:17
-01e30ce2-c17d-4dce-abb0-0d8c2f003cc0,mantra.talk,available,46.98,,high,low,6,namecheap,,,
+01e30ce2-c17d-4dce-abb0-0d8c2f003cc0,mantra.talk,available,41.98,46.98,high,low,6,namecheap,,,30/09/2026 03:49
 a801a038-6b83-46d8-80aa-e06a0ffb4587,lid.talk,premium,640,640,high,low,3,namesilo,,,24/09/2026 13:43
 73db12bf-2729-45aa-a76d-e969cefcc7c0,unlettered.talk,available,38.99,38.99,medium,low,10,namesilo,,,21/08/2026 18:33
 10296046-4779-4b79-934f-e2fcc72b2d3f,sunrise.talk,premium,78,78,high,low,7,namecheap,,,28/09/2026 01:57
+35bb678b-c8f0-4f19-8bca-2d41bc1537f9,kaiser.talk,premium,153.6,153.6,high,medium,6,namesilo,,,29/09/2026 13:13
+0f9caaf7-9952-49d7-897b-f71f2c3141b2,robyn.talk,premium,124.4,124.4,high,low,5,spaceship,,,29/09/2026 22:07
 b4582e04-8d11-4af0-b48b-a2d37c9464d4,gunn.talk,available,59.99,59.99,medium,low,4,name.com,,,27/09/2026 01:35
 9a6a2b72-7d8c-4875-854f-ce829098ed9c,aigrette.talk,available,59.99,59.99,medium,low,8,name.com,,,17/09/2026 20:55
 9ee5d3f6-add9-41b9-ba45-d3e107600111,feeder.talk,available,41.98,46.98,high,low,6,namecheap,,,12/08/2026 21:09
+ffec74fe-16aa-44a2-be6c-165210972836,pillar.talk,available,32.32,32.32,high,low,6,dynadot,,,29/09/2026 13:21
 0c74eb5b-db99-4532-b91a-e9fd1dd1e795,trend.talk,premium,153.6,153.6,high,low,5,namesilo,,,27/09/2026 20:56
 a1f69267-b266-4a0c-9e9f-da9ac8d96894,parker.talk,premium,78,78,high,low,6,namecheap,,,23/09/2026 20:21
 264f1c08-09ac-4152-bbde-df37538d1274,businesslike.talk,available,31.25,31.25,medium,low,12,spaceship,,,29/09/2026 02:32
 e3a20d0a-4317-45fb-9954-f047d57dd64a,umbilical.talk,available,38.99,38.99,high,low,9,namesilo,,,11/09/2026 23:00
 247b94c2-f0ad-44aa-b18e-3b2b40102ddb,depressed.talk,available,38.99,38.99,medium,low,9,namesilo,,,14/08/2026 02:43
+990a7480-1a14-41b2-943d-c28e2c6a0fd9,omb.talk,premium,517.7,517.7,medium,low,3,spaceship,,,29/09/2026 19:51
 a1df0b88-1fca-4d04-a314-d3481040d099,mushroom.talk,available,31.25,31.25,high,low,8,spaceship,,,28/09/2026 14:57
 980ac269-c128-4db9-b663-63fd2bece2c6,combustion.talk,available,38.99,38.99,high,low,10,namesilo,,,11/08/2026 10:57
 67a8b2a4-cd5f-4d56-b8ff-1d574c56c3b0,facts.talk,premium,153.6,153.6,high,low,5,namesilo,,,28/09/2026 04:09
@@ -841,7 +917,7 @@ a1df0b88-1fca-4d04-a314-d3481040d099,mushroom.talk,available,31.25,31.25,high,lo
 d1f9c977-9e75-4779-b882-b3e6bf7077a0,acetonic.talk,available,38.99,38.99,medium,low,8,namesilo,,,
 c634f1d2-a964-48ce-86b4-cdc0e5d33880,vanity.talk,available,41.98,46.98,high,low,6,namecheap,,,28/09/2026 21:03
 ca008855-1909-4fa8-8cc3-7160b3f28cb4,celebrated.talk,available,38.99,38.99,high,low,10,namesilo,,,11/08/2026 23:10
-85fbd56a-87a7-4b08-b993-ce1c17846e2b,jerking.talk,available,38.99,38.99,medium,low,7,namesilo,,,06/08/2026 21:58
+85fbd56a-87a7-4b08-b993-ce1c17846e2b,jerking.talk,available,38.99,38.99,high,low,7,namesilo,,,06/08/2026 21:58
 08f2ee8d-330a-48e2-b0eb-e518a54457d2,logy.talk,available,38.99,38.99,medium,low,4,namesilo,,,18/08/2026 09:55
 a7ffa77c-f493-40be-bbb7-45000f0d8e2c,alphabetic.talk,available,41.98,46.98,high,low,10,namecheap,,,22/09/2026 02:10
 627ab505-2874-4937-a485-de2a8ce7f219,clause.talk,premium,71.4,71.4,high,low,6,namesilo,,,24/09/2026 15:20
@@ -850,17 +926,20 @@ a4d27405-2c8d-4dc5-9ae3-4789ac59419f,xcl.talk,premium,625,625,medium,low,3,name.
 43250b22-ec07-4493-8b42-4bf3b1554501,consultive.talk,available,38.99,38.99,high,low,10,namesilo,,,
 98335441-508e-4b93-86b3-9aa7ab6d9d64,igneous.talk,available,41.98,46.98,medium,low,7,namecheap,,,21/08/2026 18:16
 37f1826c-94a4-422a-8874-bae5a10f1c07,platelike.talk,available,41.98,46.98,high,low,9,namecheap,,,08/09/2026 20:17
+61b5f69d-1803-46f1-a92c-f55c0e829495,friedman.talk,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 18:58
 63781c52-ee7b-4d48-bbfc-ffa11df8cbb3,sideline.talk,premium,71.4,71.4,high,low,8,namesilo,,,21/09/2026 09:42
-7769de8b-82d8-4fbc-a1a2-f71b34a63bf8,nurse.talk,premium,625,,high,low,5,name.com,,,
+7769de8b-82d8-4fbc-a1a2-f71b34a63bf8,nurse.talk,premium,517.7,517.7,high,low,5,spaceship,,,29/09/2026 22:12
 42378a8d-ae9c-484b-bc83-fef286430f2b,automatic.talk,premium,71.4,71.4,high,low,9,namesilo,,,22/09/2026 14:02
 4c268c88-cce2-45bb-a790-c9457fa65a5a,rapidly.talk,premium,78,78,high,low,7,namecheap,,,13/09/2026 20:17
 00bc1391-cb58-4f42-8137-f25800e68fbf,herein.talk,premium,71.4,71.4,medium,low,6,namesilo,,,15/09/2026 00:30
 e028713a-7f5a-443d-9681-27fd65333ca1,rate.talk,premium,302.5,302.5,high,low,4,namesilo,,,24/09/2026 13:46
 a4bf43f7-5f7d-42c1-9703-32aeaf0c6be2,arak.talk,available,38.99,38.99,medium,low,4,namesilo,,,19/09/2026 23:47
+419ec300-9e93-4de0-ae99-96a0f1167007,solidarity.talk,available,31.25,31.25,high,low,10,spaceship,,,30/09/2026 02:56
 cf04b421-bccc-487f-8dc9-8b387ffa9afa,traveling.talk,premium,71.4,71.4,high,low,9,namesilo,,,
 cc88fb41-829a-4b95-9b0d-83a44bc8c494,hermetic.talk,available,38.99,38.99,high,low,8,namesilo,,,21/08/2026 07:10
 ae5d7fe6-dd8e-4ca6-8f64-a273044c1fd3,vocabulary.talk,premium,66,66,high,low,10,dynadot,,,28/09/2026 14:42
 ddc26026-458e-4b0b-897e-546dd7928e06,limpkin.talk,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 23:59
+52bacfe2-29d4-47ef-938f-bb6f97a83209,mare.talk,available,31.25,31.25,high,low,4,spaceship,,,29/09/2026 12:21
 9822da16-5117-404e-b213-8d1ccb258ce6,arguing.talk,available,41.98,46.98,high,low,7,namecheap,,,20/09/2026 04:50
 b72acf98-cde5-4fc1-81d2-8f5b323b4292,audiotape.talk,available,38.99,38.99,high,low,9,namesilo,,,21/09/2026 03:01
 3a4e7350-f4fb-43b8-87a6-e257e9a55682,affinal.talk,available,38.99,38.99,medium,low,7,namesilo,,,
@@ -872,7 +951,7 @@ ac1c38e1-6879-4029-8a19-582d8dce70c6,illusive.talk,available,41.98,46.98,medium,
 2fc359a8-16f9-4aad-8b1e-fe19083b9e5b,gpa.talk,premium,640,640,high,low,3,namesilo,,,28/09/2026 05:52
 4c8740b2-0172-458c-8d73-9ee4f9714e48,chancy.talk,available,38.99,38.99,medium,low,6,namesilo,,,12/08/2026 01:41
 98c69f56-45e3-4af2-8370-ae6d8bf71465,cracks.talk,available,31.25,31.25,low,low,6,spaceship,,,28/09/2026 13:17
-bcf57991-23ae-4c89-ba99-344fd623fee7,almaty.talk,premium,153.6,153.6,medium,low,6,namesilo,,,18/09/2026 12:22
+bcf57991-23ae-4c89-ba99-344fd623fee7,almaty.talk,premium,153.6,153.6,high,low,6,namesilo,,,18/09/2026 12:22
 2037a260-04c3-4836-aefc-16eecfdbb97a,belongs.talk,premium,78,78,medium,low,7,namecheap,,,25/09/2026 20:38
 a9bb6ca8-0373-4dd7-a277-ee2ded132bd5,comfy.talk,available,38.99,38.99,high,low,5,namesilo,,,23/09/2026 15:10
 bcc5aab2-e3e8-486b-b945-12f56842a51e,acquisition.talk,premium,62.3,62.3,high,low,11,spaceship,,,28/09/2026 05:29
@@ -904,14 +983,14 @@ caa6a3df-70e4-40d4-8ae9-11ed471523ed,threats.talk,premium,71.4,71.4,medium,low,7
 ae8c7417-d94c-48e8-a322-a807c0a22fd8,astringent.talk,available,38.99,38.99,medium,low,10,namesilo,,,
 e0f86b3c-9c47-42bb-a113-bfaec4c6151b,magnum.talk,available,32.32,32.32,high,low,6,dynadot,,,28/09/2026 06:19
 a6926ebd-763b-46d7-a508-59bd38220b70,avidness.talk,available,38.99,38.99,medium,low,8,namesilo,,,21/09/2026 09:29
-9083d1ff-9f2b-47b7-9a0a-094549099bbf,bronte.talk,available,38.99,38.99,medium,low,6,namesilo,,,19/09/2026 10:16
+9083d1ff-9f2b-47b7-9a0a-094549099bbf,bronte.talk,available,38.99,38.99,high,low,6,namesilo,,,19/09/2026 10:16
 802726bf-5018-47a7-9efa-b2be749e3495,aide.talk,available,38.99,38.99,high,low,4,namesilo,,,22/09/2026 14:20
 5737b7b2-01ea-4fa5-a2c2-857a43455225,arbitrary.talk,premium,71.4,71.4,high,low,9,namesilo,,,06/08/2026 12:54
 403816d0-5fd7-419b-ae1d-d9ff02ececaf,cleared.talk,premium,62.3,62.3,high,low,7,spaceship,,,28/09/2026 14:48
 d217bab6-ada6-42d4-a573-d3427a5cad5c,snowstorms.talk,available,38.99,38.99,low,low,10,namesilo,,,19/09/2026 21:56
 d6acefea-e224-49ff-b5e4-df5a5b51167b,bilateral.talk,available,41.98,46.98,high,low,9,namecheap,,,09/08/2026 21:14
 0a07d988-8771-40d5-9036-c4c8c5555b96,tires.talk,premium,153.6,153.6,medium,low,5,namesilo,,,27/09/2026 10:07
-8ff842f8-c6b6-4aec-97ee-0f5b51de7294,obamacare.talk,available,38.99,38.99,medium,low,10,namesilo,,,
+8ff842f8-c6b6-4aec-97ee-0f5b51de7294,obamacare.talk,available,38.99,38.99,high,low,10,namesilo,,,
 cac78703-49be-4071-96e2-795a4bf8d9d2,devalued.talk,available,38.99,38.99,medium,low,8,namesilo,,,14/08/2026 05:02
 e2da27fb-8fe8-4f84-a5f7-3e5d50c07621,sort.talk,premium,302.5,302.5,high,low,4,namesilo,,,25/09/2026 12:43
 4e2a3427-b8c9-4401-b75a-bab1e1547410,anniversary.talk,premium,71.4,71.4,high,low,11,namesilo,,,
@@ -920,82 +999,3 @@ bdaa3347-cb65-47c7-8770-567f5d084138,tops.talk,premium,273.44,273.44,high,low,4,
 2dc6a083-67a6-4555-99a6-26d1a79304ff,toilets.talk,available,38.99,38.99,low,low,7,namesilo,,,28/09/2026 23:58
 3426dc42-4deb-445c-b655-6646937dd23e,abashed.talk,available,38.99,38.99,medium,low,7,namesilo,,,
 52899944-a5e7-4e4f-8a62-1fba7191c9c5,chicago.talk,premium,640,640,high,low,7,namesilo,,,24/09/2026 14:26
-faa3d967-2f1d-4498-ac27-ee650675c6bc,apparatus.talk,premium,78,78,high,low,9,namecheap,,,19/09/2026 19:49
-f9d51556-3f26-4ec1-9884-f2afa5b4804d,splitting.talk,available,38.99,38.99,high,low,9,namesilo,,,09/09/2026 14:01
-b084ac0c-e733-4d3d-820a-2f16bdbbf78b,paton.talk,available,38.99,38.99,high,low,5,namesilo,,,18/09/2026 01:46
-fc2b6ef9-7f6b-4efd-905f-89b70cf67f1b,troops.talk,premium,71.4,71.4,high,low,6,namesilo,,,25/09/2026 23:43
-56ee08f1-f553-4de4-b2ab-93f2def0addb,spender.talk,available,38.99,38.99,high,low,7,namesilo,,,19/09/2026 09:49
-966f12e2-e6a6-4cf9-85f7-5f6f258ed142,ski.talk,premium,640,640,high,low,3,namesilo,,,27/09/2026 05:28
-e3003058-d707-49a4-a3a4-84a2a5e72ba2,armstrong.talk,premium,71.4,71.4,high,medium,9,namesilo,,,20/09/2026 07:49
-d4c1d0e2-6492-4d6b-958d-389d8b9fd2de,ancestry.talk,available,38.99,38.99,high,medium,8,namesilo,,,08/09/2026 13:19
-30db28eb-df23-488a-96c4-6d58cbadc532,dont.talk,premium,302.5,302.5,medium,low,4,namesilo,,,17/09/2026 00:37
-d7a4c379-a6b8-4d84-9965-ed4cc9f64007,dude.talk,premium,312.5,312.5,high,low,4,name.com,,,13/08/2026 17:07
-eec133fa-b4eb-45f3-869d-d4914f96ce7e,modem.talk,premium,150,,high,low,5,name.com,,,
-64ce5d2a-36a6-4218-a338-4cb025d25e9a,coexisting.talk,available,38.99,38.99,medium,low,10,namesilo,,,12/08/2026 15:32
-831f2042-4788-4479-84a0-f5f1a2210b6a,webshop.talk,available,38.99,38.99,high,low,8,namesilo,,,
-3da4d299-29de-4fde-ac20-a58cc1da9acb,bowhead.talk,available,41.98,46.98,medium,low,7,namecheap,,,21/09/2026 20:32
-c6c3c8bb-c21e-4849-aea8-7c02d80229d5,cuba.talk,available,,,high,high,4,,,,
-068aada4-c067-4a4b-b5c0-7ebced573351,infidel.talk,available,38.99,38.99,medium,low,7,namesilo,,,18/08/2026 21:58
-5021cc2b-17ae-46cc-8ef9-7a2c4e28228e,antenna.talk,premium,66,66,high,low,7,dynadot,,,28/09/2026 21:39
-65328f1a-bbb2-43d0-a23b-daf96a10489a,bewitch.talk,available,38.99,38.99,high,low,7,namesilo,,,21/08/2026 07:41
-8c2a9528-2810-484d-b3d0-3d58b0959df3,huntingdon.talk,available,31.25,31.25,medium,low,10,spaceship,,,28/09/2026 17:57
-b5667fdf-791d-4d75-b45e-93bc425ac41c,registration.talk,premium,75,,high,low,12,name.com,,,
-5f7d0e33-e59f-4679-acc3-fa91569d086c,completion.talk,premium,71.4,71.4,high,low,10,namesilo,,,28/09/2026 10:41
-9d425580-b77c-47fb-90f0-f245435f8d6c,hindsight.talk,premium,71.4,71.4,high,low,9,namesilo,,,
-e952034a-3da5-42e7-9e40-3c493be4e6f1,subarctic.talk,available,38.99,38.99,medium,low,9,namesilo,,,10/09/2026 23:36
-7c9afeb7-04a6-4830-bcd9-853d864aa8a6,sperry.talk,available,32.32,32.32,medium,low,6,dynadot,,,29/09/2026 00:47
-ab8b894a-24a2-4c15-a0e0-30985e113614,beige.talk,available,38.99,38.99,medium,low,5,namesilo,,,09/08/2026 12:22
-c977b18a-a85b-4bf7-915d-c6fd2afacb93,oriental.talk,premium,78,78,high,low,8,namecheap,,,04/09/2026 17:51
-82c3c636-077d-4fee-b64e-5a127a8e2180,seaborne.talk,available,38.99,38.99,medium,low,8,namesilo,,,10/09/2026 00:34
-163e8f42-844c-4d91-b003-066cf2cdab15,peggy.talk,premium,153.6,153.6,high,low,5,namesilo,,,25/09/2026 13:02
-075ca4a4-117d-4d82-b2e4-187ccbcd1d13,anteroom.talk,available,41.98,46.98,medium,low,8,namecheap,,,19/09/2026 12:42
-caa49ea0-5db7-4e2c-800f-7df95c11552d,copasetic.talk,available,38.99,38.99,medium,low,9,namesilo,,,13/08/2026 00:20
-725ef27b-2c3f-4027-af75-823dda198091,anonymity.talk,available,41.98,46.98,high,low,9,namecheap,,,19/09/2026 11:38
-179796f1-ae84-4edd-aa4f-b7002dfb2aed,seawards.talk,available,38.99,38.99,medium,low,8,namesilo,,,10/09/2026 01:02
-589bece9-bea7-448b-8a48-8dba91bd628b,missional.talk,available,38.99,38.99,medium,low,9,namesilo,,,25/08/2026 01:50
-bbf44e67-1203-403a-9068-044e7ce93fe0,oversewn.talk,available,38.99,38.99,medium,low,8,namesilo,,,04/09/2026 21:48
-3ff466ad-c2e6-4a49-96bd-2d0b779db46d,offstage.talk,available,38.99,38.99,high,low,8,namesilo,,,08/08/2026 06:14
-31edf86a-5519-4d54-ac5e-fff049c98610,acarus.talk,available,41.98,46.98,medium,low,6,namecheap,,,16/09/2026 21:38
-cc8e99f1-5fd5-420c-a266-48ca159af369,directory.talk,premium,640,640,high,low,9,namesilo,,,24/09/2026 22:24
-7ad4dc09-77d9-42d8-8f69-3b1aa289d030,campaigning.talk,available,38.99,38.99,high,low,11,namesilo,,,
-bf484eb7-8caf-4958-9722-3e093ad57bab,for.talk,premium,625,,high,medium,3,name.com,,,
-d2667b0f-79e5-4a2c-92e6-1d194cd76d95,hundredth.talk,available,38.99,38.99,high,low,9,namesilo,,,
-75bc3635-a7d4-4bce-8094-bb2110eadf0a,canola.talk,available,38.99,38.99,high,low,6,namesilo,,,24/09/2026 12:06
-54ffd516-5da1-4e52-8e78-de8ad138f844,chaparral.talk,available,38.99,38.99,medium,low,9,namesilo,,,10/09/2026 00:21
-3ffd1136-fab3-4c24-8604-a8c287ea91b0,mirrored.talk,available,38.99,38.99,high,low,8,namesilo,,,25/08/2026 01:11
-f339fcd4-bfa3-4df5-9a9e-989004e0c82e,acquiesce.talk,available,38.99,38.99,high,low,9,namesilo,,,20/09/2026 16:11
-fbd06710-1cdd-4aac-94ef-14e180674456,biogenesis.talk,available,41.98,46.98,high,low,10,namecheap,,,23/09/2026 18:02
-62f61d5e-e2f5-44b9-a039-9d7c6c1a86b8,spectre.talk,available,38.99,38.99,high,low,7,namesilo,,,08/09/2026 18:42
-b88b1433-ea9b-487e-a942-c73111120209,meek.talk,available,41.98,46.98,high,low,4,namecheap,,,24/08/2026 19:16
-fd09266c-9f99-4a3a-943e-283dd789a9dc,edwin.talk,premium,153.6,153.6,high,low,5,namesilo,,,25/09/2026 05:17
-5da1d512-9aff-41c7-8ee8-e44562e6a68a,fringe.talk,available,38.99,38.99,high,low,6,namesilo,,,29/09/2026 01:02
-54f722d0-5288-49c8-8cd1-a991dfad33a6,sincere.talk,premium,153.6,153.6,high,low,7,namesilo,,,24/09/2026 13:03
-c2801cd2-6fba-4fcc-a07c-22eb732b6317,opportunity.talk,premium,71.4,71.4,high,low,11,namesilo,,,27/09/2026 02:17
-c3ae9f85-2ebd-4558-8a78-84791bd230fe,preparation.talk,premium,71.4,71.4,high,low,11,namesilo,,,28/09/2026 12:30
-40c4e351-d9e4-4058-9cd6-375c2d28ded2,disabling.talk,available,38.99,38.99,medium,low,9,namesilo,,,13/08/2026 07:09
-1250afc9-508d-4c9c-a52f-9ba9ce79c77f,artful.talk,available,38.99,38.99,high,low,6,namesilo,,,06/08/2026 22:44
-0b7c73a1-bb2c-4339-adc2-5ddf773b85c2,neglect.talk,available,38.99,38.99,high,low,7,namesilo,,,
-92814c0a-4bd1-440f-b825-b7a153c1d074,swerve.talk,available,38.99,38.99,high,low,6,namesilo,,,27/09/2026 20:50
-21893e39-75fb-499e-9c5e-39a4a0c7a432,judicious.talk,available,38.99,38.99,high,low,9,namesilo,,,21/08/2026 02:00
-c13f27ae-7e50-4921-a37b-5b2aeab7b7f8,anguine.talk,available,38.99,38.99,low,low,7,namesilo,,,
-af4f9ce3-78a8-43eb-ba29-a4321ea28f1b,ballast.talk,available,38.99,38.99,high,low,7,namesilo,,,21/09/2026 22:46
-c5babf75-b60a-40cc-b490-0292f188293b,traded.talk,available,41.98,46.98,medium,low,6,namecheap,,,25/09/2026 20:44
-63601b77-a9da-4f00-a608-9ecd73697696,velvet.talk,premium,66.02,66.02,high,low,6,porkbun,,,28/09/2026 10:12
-49901f20-b172-4461-8d31-6d9d2e1438da,andalusian.talk,available,38.99,38.99,high,low,10,namesilo,,,
-6fb23705-c649-4189-8946-1c981b93c0cf,molybdenum.talk,available,38.99,38.99,medium,low,10,namesilo,,,20/09/2026 23:05
-bc35c103-0866-4e06-abc8-9cff3800d977,decently.talk,available,41.98,46.98,medium,low,8,namecheap,,,13/08/2026 21:14
-7bc0f2b7-fe15-46e1-8873-6608b5c8a776,detecting.talk,available,38.99,38.99,high,low,9,namesilo,,,
-83d714a9-cb71-4244-887d-eac986ecc8b1,inspire.talk,premium,153.6,153.6,high,medium,7,namesilo,,,22/09/2026 04:50
-2abdd89a-21f6-4e14-9983-bfcff7ab9f02,gregory.talk,premium,71.4,71.4,high,low,7,namesilo,,,19/09/2026 06:00
-f6681f86-9623-4089-b37f-8f6b5aaf989c,araneus.talk,available,38.99,38.99,medium,low,7,namesilo,,,20/09/2026 00:05
-474ac16a-706f-4a1c-9f43-dfb195f610b5,steering.talk,premium,71.4,71.4,medium,low,8,namesilo,,,28/09/2026 15:24
-c21d6e75-1e83-4554-bc0e-37354ba2bf29,antiracist.talk,available,38.99,38.99,high,low,11,namesilo,,,
-40e75679-8bed-4db2-986b-561d83a137f5,takahashi.talk,premium,156,156,medium,low,9,namecheap,,,28/09/2026 16:36
-5da25f44-ce62-4174-96b2-c5a4ffe14b91,bigamist.talk,available,38.99,38.99,medium,low,8,namesilo,,,23/09/2026 15:02
-c623a292-b8a8-401e-9a94-bf01d7d5d88c,spheroidal.talk,available,41.98,46.98,medium,low,10,namecheap,,,16/08/2026 05:22
-111bb540-6298-4781-86f9-5b43c79f0415,alcedo.talk,available,38.99,38.99,high,low,6,namesilo,,,18/09/2026 03:52
-dbc4e43f-68a3-4cef-9148-d294ba56ceaf,scoops.talk,available,38.99,38.99,medium,low,6,namesilo,,,20/09/2026 12:19
-7e46a75d-4ea0-41ab-a89a-7e2092feecee,asymptote.talk,available,38.99,38.99,medium,low,9,namesilo,,,20/09/2026 18:41
-bb37fca8-3c89-483e-b83d-b703367deb4e,christly.talk,available,38.99,38.99,medium,low,8,namesilo,,,12/08/2026 07:21
-d48b25a7-c308-4a09-8da7-cfe1e2d9dba8,feasibly.talk,available,41.98,46.98,medium,low,8,namecheap,,,14/09/2026 18:08
-74e2e515-d8ec-43c6-8b9c-84ca1a20081f,pondered.talk,available,38.99,38.99,medium,low,8,namesilo,,,18/09/2026 02:08
